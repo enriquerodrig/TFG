@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<head>
+    <style>
+        body{
+            background: #fff;
+        }
+        .title {
+            font-size: 40px;
+            font-weight: bold;
+            text-align: center;
+        }
+        .subtitle {
+            font-size: 36px;
+            font-weight: bold;
+            text-align: center;
+        }
+        .title1 {
+            font-size: 30px;
+            font-weight: bold;
+            text-align: left;
+        }
+        .title2 {
+            font-size: 20px;
+            font-weight: bold;
+            text-align: left;
+        }
+        .title3 {
+            font-size: 18px;
+            font-weight: bold;
+            text-align: left;
+        }
+        p{
+            font-size: 11px;
+            text-align: justify;
+        }
+        table{
+            border: 1px solid black;
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+    </style>
+    <meta charset="utf-8">
+</head>
+<body>
+    <div class="title">Informe OSINT</div>
+    <div class="subtitle">{{ target['name'] }} - {{ target['domain'] }} </div>
+    <!-- <div class="title1">{{ target['title'] }} </div>
+    Description of the target 
+    {{ target['description'] }} <br>
+    company data 
+    {{ target['data'] }} -->
+
+    <div class="title1">Introducción</div>
+    Este es un informe sobre <b>{{ target['name'] }}</b> donde, mediante OSINT, presentamos una lista de empleados y sus correos activos, junto con información relacionada. En primer lugar, presentamos una abstracción simplificada de la jerarquía de la empresa, que representa la Mesa de Dirección elegida por el usuario. A continuación, se muestra una lista de {{ candidates|length }} empleados seleccionados como posibles objetivos de phishing, basados en las palabras clave introducidas por el usuario, y el número de candidatos necesarios.
+
+    <div class="title1">Organigrama</div>
+    Esta sección contiene la Mesa de Direccion de la empresa {{ target['name'] }}, en formato de tabla. Los empleados se clasifican por puesto, donde cada tabla agrupa un puesto o nivel jerárquico, y cada fila contiene los nombres, apellidos, puesto y email validado de cada empleado.
+    <br> Empleados validados: {{ organigramm['n_employees'] }} <br>
+    {% for position in organigramm['employees'] %}
+        <div class="title2">{{ position }}</div>
+        <table>
+        <tr>
+            <th>Nombre</th>
+            <th>Apellidos</th>
+            <th>Puesto</th>
+            <th>Email</th>
+        </tr>
+        {% for employee in organigramm['employees'][position][1] %}
+            <tr>
+                <td>{{ employee['fname'] }}</td>
+                <td>{{ employee['lname'] }}</td>
+                <td>{{ employee['position'] }}</td>
+                <td>{{ employee['email'] }}</td>
+            </tr>
+        {% endfor %}
+        </table>
+    {% endfor %}
+
+    <div class="title1">Top candidatos de phishing</div>
+    Basándonos en las palabras clave proporcionadas por el usuario, el script selecciona los {{ candidates|length }} candidatos más relevantes como objetivos de phishing. Las palabras clave elegidas por el usuario han sido: {{ keywords }}. La presentacion de los datos es similar a la del organigrama: <br>
+    <table>
+        <tr>
+            <th>Nombre</th>
+            <th>Apellidos</th>
+            <th>Puesto</th>
+            <th>Email</th>
+        </tr>
+        {% for employee in candidates %}
+            <tr>
+                <td>{{ employee['fname'] }}</td>
+                <td>{{ employee['lname'] }}</td>
+                <td>{{ employee['position'] }}</td>
+                <td>{{ employee['email'] }}</td>
+            </tr>
+        {% endfor %}
+    </table>
+</body>
+</html>

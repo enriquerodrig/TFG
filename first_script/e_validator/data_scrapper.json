@@ -1,0 +1,3867 @@
+[
+    {
+        "_descriptor": "input",
+        "domain": "scassi.com",
+        "employees": [
+            {
+                "fname": "Laura",
+                "lname": "SCASSI",
+                "position": "Abogada"
+            },
+            {
+                "fname": "Renata",
+                "lname": "Scassi",
+                "position": "Buffa Rivera"
+            },
+            {
+                "fname": "Raquel",
+                "lname": "Arribas",
+                "position": "SCASSI"
+            },
+            {
+                "fname": "Manuel",
+                "lname": "Romera",
+                "position": "Consultor de ciberseguridad y pentestlinkedin.com"
+            },
+            {
+                "fname": "Enrique",
+                "lname": "Salcedo",
+                "position": "Senior en ciberseguridad"
+            },
+            {
+                "fname": "Juan",
+                "lname": "Perez",
+                "position": "Consultor de Ciberseguridadlinkedin.com"
+            },
+            {
+                "fname": "Manuel",
+                "lname": "Gomez",
+                "position": "SCASSI CIBERSEGURIDAD"
+            },
+            {
+                "fname": "Jesus",
+                "lname": "PhD",
+                "position": "Innovation Manager"
+            },
+            {
+                "fname": "Maria",
+                "lname": "Pagan",
+                "position": "Disenadora Multimedia"
+            },
+            {
+                "fname": "Laura",
+                "lname": "Scassi",
+                "position": "Encargada"
+            },
+            {
+                "fname": "Mehdi",
+                "lname": "Guelzim",
+                "position": "Madrid y alrededores"
+            },
+            {
+                "fname": "Manuel",
+                "lname": "Gomez",
+                "position": "Jefe de proyectos"
+            },
+            {
+                "fname": "Laura",
+                "lname": "Scassi",
+                "position": "Encargado"
+            },
+            {
+                "fname": "Sonia",
+                "lname": "Garcia",
+                "position": "Madrid y alrededores"
+            },
+            {
+                "fname": "Odoardo",
+                "lname": "Scassi",
+                "position": "Chile"
+            },
+            {
+                "fname": "Juan",
+                "lname": "Scassi",
+                "position": "Linea Transporte en FATE SAICIlinkedin.com"
+            },
+            {
+                "fname": "Enrique",
+                "lname": "Herreros",
+                "position": "Director Corporate"
+            },
+            {
+                "fname": "Ines",
+                "lname": "Scassi",
+                "position": "Buffa"
+            },
+            {
+                "fname": "Daryl",
+                "lname": "Scassi",
+                "position": "Argentina"
+            },
+            {
+                "fname": "Lau",
+                "lname": "Scassi",
+                "position": "N/A"
+            },
+            {
+                "fname": "Maria",
+                "lname": "Bragas",
+                "position": "Innova Aberturas y Estructuraslinkedin.com"
+            },
+            {
+                "fname": "Alfredo",
+                "lname": "Scassi",
+                "position": "Buffa"
+            },
+            {
+                "fname": "Magdalena",
+                "lname": "Scassi",
+                "position": "Buffa"
+            },
+            {
+                "fname": "Carla",
+                "lname": "Scassi",
+                "position": "Buffa"
+            },
+            {
+                "fname": "Fernanda",
+                "lname": "Scassi",
+                "position": "Buffa"
+            },
+            {
+                "fname": "Alvaro",
+                "lname": "M",
+                "position": "Cyber Security Engineer"
+            },
+            {
+                "fname": "anne",
+                "lname": "anne",
+                "position": "claire deslandres"
+            },
+            {
+                "fname": "Laurent",
+                "lname": "PELUD",
+                "position": "Fondateur SCASSI FR/ES"
+            },
+            {
+                "fname": "Vincent",
+                "lname": "Chefdebien",
+                "position": "Security Engineer"
+            },
+            {
+                "fname": "Han",
+                "lname": "He",
+                "position": "Technical support"
+            },
+            {
+                "fname": "DAVIDE",
+                "lname": "SCASSI",
+                "position": "Greater Sydney Area"
+            },
+            {
+                "fname": "Julien",
+                "lname": "Chezeaux",
+                "position": "Consulting Engineer"
+            },
+            {
+                "fname": "Gilles",
+                "lname": "LARGEAUD",
+                "position": "Responsable commercial independantlinkedin.com"
+            },
+            {
+                "fname": "Kevin",
+                "lname": "LACAZE",
+                "position": "Greater Saint Denis Area"
+            },
+            {
+                "fname": "Alvaro",
+                "lname": "Moreno",
+                "position": "Cyber Theath Intelligence Analystlinkedin.com"
+            },
+            {
+                "fname": "Pierre",
+                "lname": "NICOLAS",
+                "position": "Directeur general"
+            },
+            {
+                "fname": "jean",
+                "lname": "jean",
+                "position": "claude longchamps"
+            },
+            {
+                "fname": "Anais",
+                "lname": "REZE",
+                "position": "Expert cybersecurite des systemes critiqueslinkedin.com"
+            },
+            {
+                "fname": "Marie",
+                "lname": "Simian",
+                "position": "Assistante Administrative/RH chez SCASSIlinkedin.com"
+            },
+            {
+                "fname": "Scassi",
+                "lname": "ling",
+                "position": "owner"
+            },
+            {
+                "fname": "Alexis",
+                "lname": "Bordes",
+                "position": "Business Manager"
+            },
+            {
+                "fname": "Vincent",
+                "lname": "Chefdebien",
+                "position": "Ingenieur Securite"
+            },
+            {
+                "fname": "Julien",
+                "lname": "CHAPPUY",
+                "position": "Expert cybersecurite des systemes critiqueslinkedin.com"
+            },
+            {
+                "fname": "jean",
+                "lname": "jean",
+                "position": "claude longchamps"
+            },
+            {
+                "fname": "Ludovic",
+                "lname": "BOMBAIL",
+                "position": "Ingenieur securite"
+            },
+            {
+                "fname": "Maria",
+                "lname": "Sangria",
+                "position": "Business Unit Head"
+            },
+            {
+                "fname": "LOUIS",
+                "lname": "HOBEITER",
+                "position": "Ingenieur Pentester en cybersecuritelinkedin.com"
+            },
+            {
+                "fname": "Patrick",
+                "lname": "Bory",
+                "position": "Responsable Skill Center Defense & Spatiallinkedin.com"
+            },
+            {
+                "fname": "Imane",
+                "lname": "KAMMOURI",
+                "position": "Chargee de Recrutement"
+            },
+            {
+                "fname": "Sylvain",
+                "lname": "DAUMAS",
+                "position": "Pure player de la cybersecurite"
+            },
+            {
+                "fname": "Romain",
+                "lname": "Kassel",
+                "position": "Security Engineer"
+            },
+            {
+                "fname": "ryan",
+                "lname": "barsaga",
+                "position": "account analyst"
+            },
+            {
+                "fname": "Laetitia",
+                "lname": "Olivaux",
+                "position": "Expert cybersecurite des systemes critiqueslinkedin.com"
+            },
+            {
+                "fname": "Benoit",
+                "lname": "Couturas",
+                "position": "Expert cybersecurite des systemes critiqueslinkedin.com"
+            },
+            {
+                "fname": "David",
+                "lname": "Souilla",
+                "position": "Expert cybersecurite des systemes critiqueslinkedin.com"
+            },
+            {
+                "fname": "Alfredo",
+                "lname": "Savino",
+                "position": "infermiere"
+            },
+            {
+                "fname": "Sara",
+                "lname": "Scassi",
+                "position": "Universitario"
+            },
+            {
+                "fname": "Eduardo",
+                "lname": "Scassi",
+                "position": "Desenvolvedor SAP ABAP"
+            },
+            {
+                "fname": "Bertrand",
+                "lname": "F",
+                "position": "Pure player de la cybersecurite"
+            },
+            {
+                "fname": "Alexis",
+                "lname": "SIRBULESCU",
+                "position": "Pentester"
+            },
+            {
+                "fname": "Brunella",
+                "lname": "Scassi",
+                "position": "Estetista"
+            },
+            {
+                "fname": "Charles",
+                "lname": "Pinoteau",
+                "position": "Consultant en cybersecurite"
+            },
+            {
+                "fname": "Oday",
+                "lname": "Turro",
+                "position": "The Apartment Strategic Communicationlinkedin.com"
+            },
+            {
+                "fname": "sara",
+                "lname": "scassi",
+                "position": "operatore punto vendita"
+            },
+            {
+                "fname": "Johanes",
+                "lname": "Masanell",
+                "position": "Expert cybersecurite des systemes critiqueslinkedin.com"
+            },
+            {
+                "fname": "federica",
+                "lname": "putzu",
+                "position": "nurse"
+            },
+            {
+                "fname": "Soraya",
+                "lname": "Yahiaoui",
+                "position": "Consultante Cybersecurite Senior"
+            },
+            {
+                "fname": "Alejandro",
+                "lname": "Garcia",
+                "position": "Consultor en seguridad informatica"
+            },
+            {
+                "fname": "sara",
+                "lname": "modica",
+                "position": "infermiera professionale"
+            },
+            {
+                "fname": "Marcos",
+                "lname": "A",
+                "position": "Cloud Offensive Security Engineer"
+            },
+            {
+                "fname": "CHRISTIAN",
+                "lname": "COLOMES",
+                "position": "Consultant Senior Cyber Securite et"
+            },
+            {
+                "fname": "silvia",
+                "lname": "olcese",
+                "position": "infermiera"
+            },
+            {
+                "fname": "Sara",
+                "lname": "Consigli",
+                "position": "Ospedale Villa Scassi genova"
+            },
+            {
+                "fname": "Jeunehomme",
+                "lname": "Francois",
+                "position": "Xavier"
+            },
+            {
+                "fname": "Anais",
+                "lname": "REZE",
+                "position": "Expert cybersecurite des systemes critiqueslinkedin.com"
+            },
+            {
+                "fname": "Richard",
+                "lname": "Pankanin",
+                "position": "Expert cybersecurite des systemes critiqueslinkedin.com"
+            },
+            {
+                "fname": "Brunella",
+                "lname": "Scassi",
+                "position": "Estetista"
+            },
+            {
+                "fname": "sara",
+                "lname": "scassi",
+                "position": "impiegato"
+            },
+            {
+                "fname": "Federica",
+                "lname": "Putzu",
+                "position": "nurse"
+            },
+            {
+                "fname": "Alessia",
+                "lname": "Cavo",
+                "position": "Medico specialista Oncologia Medica"
+            },
+            {
+                "fname": "Lovely",
+                "lname": "Emelo",
+                "position": "MArketing Manager"
+            },
+            {
+                "fname": "Julien",
+                "lname": "Chezeaux",
+                "position": "Consultant en securite informatiquelinkedin.com"
+            },
+            {
+                "fname": "Stefania",
+                "lname": "Vanni",
+                "position": "Chirurgo ortopedico"
+            },
+            {
+                "fname": "Tommaso",
+                "lname": "Ragusa",
+                "position": "medico"
+            },
+            {
+                "fname": "lauro",
+                "lname": "scassi",
+                "position": "process manager"
+            },
+            {
+                "fname": "Rita",
+                "lname": "Scassi",
+                "position": "Milano"
+            },
+            {
+                "fname": "Marco",
+                "lname": "Galeno",
+                "position": "Mr."
+            },
+            {
+                "fname": "REAU",
+                "lname": "Jean",
+                "position": "Jeune retraite"
+            },
+            {
+                "fname": "Valentina",
+                "lname": "Gallina",
+                "position": "Dirigente medico"
+            },
+            {
+                "fname": "Pierre",
+                "lname": "R",
+                "position": "SCASSI"
+            },
+            {
+                "fname": "Adriana",
+                "lname": "Campos",
+                "position": "artesanato"
+            },
+            {
+                "fname": "Marina",
+                "lname": "Parisi",
+                "position": "oss"
+            },
+            {
+                "fname": "isabella",
+                "lname": "monaco",
+                "position": "infermiera"
+            },
+            {
+                "fname": "Ewa",
+                "lname": "Michalska",
+                "position": "ip"
+            },
+            {
+                "fname": "Ruben",
+                "lname": "Fernandez",
+                "position": "Checa Cruz"
+            },
+            {
+                "fname": "Lic.Liliana",
+                "lname": "Salama",
+                "position": "Buenos Aires, Provincia de"
+            },
+            {
+                "fname": "Calcagno",
+                "lname": "Antonello",
+                "position": "infermiere"
+            },
+            {
+                "fname": "Ewa",
+                "lname": "Michalska",
+                "position": "infermiera"
+            },
+            {
+                "fname": "Marisel",
+                "lname": "Contador",
+                "position": "Provincia de Quillota, Region de"
+            },
+            {
+                "fname": "Guiomar",
+                "lname": "Lucas",
+                "position": "Senior Business Development Managerlinkedin.com"
+            },
+            {
+                "fname": "jordan",
+                "lname": "colson",
+                "position": "Security Consultant"
+            },
+            {
+                "fname": "Paul",
+                "lname": "Casalis",
+                "position": "Consultant en cybersecurite"
+            },
+            {
+                "fname": "Oday",
+                "lname": "Turro",
+                "position": "Ejecutivo de cuentas"
+            },
+            {
+                "fname": "lucia",
+                "lname": "mensi",
+                "position": "ASL 3 Ospedale Villa Scassi"
+            },
+            {
+                "fname": "Maria",
+                "lname": "Costantino",
+                "position": "Impiegata ASL"
+            },
+            {
+                "fname": "Petracco",
+                "lname": "Cinzia",
+                "position": "infermiera"
+            },
+            {
+                "fname": "Ester",
+                "lname": "Minniti",
+                "position": "azienda ospedaliera villa scassi genovalinkedin.com"
+            },
+            {
+                "fname": "Alessandra",
+                "lname": "Spadafora",
+                "position": "ASL3 Genovese"
+            },
+            {
+                "fname": "Pierre",
+                "lname": "GRELET",
+                "position": "Expert cybersecurite des systemes critiqueslinkedin.com"
+            },
+            {
+                "fname": "Javier",
+                "lname": "C",
+                "position": "Security & GRC Consultant"
+            },
+            {
+                "fname": "MERELLO",
+                "lname": "Elisa1",
+                "position": "Dietista"
+            },
+            {
+                "fname": "Theophile",
+                "lname": "H",
+                "position": "Pentester"
+            },
+            {
+                "fname": "Alexandre",
+                "lname": "J",
+                "position": "Consultant en cybersecurite"
+            },
+            {
+                "fname": "Elodie",
+                "lname": "SAIFI",
+                "position": "Responsable RH"
+            },
+            {
+                "fname": "ludovic",
+                "lname": "papon",
+                "position": "Consultant en cybersecurite"
+            },
+            {
+                "fname": "patrizia",
+                "lname": "mucchi",
+                "position": "infermiera professionale"
+            },
+            {
+                "fname": "Fulvio",
+                "lname": "Celotto",
+                "position": "ASL 3 Genovese osp.Villa Scassi"
+            },
+            {
+                "fname": "Alessandro",
+                "lname": "Battistini",
+                "position": "Infermiere"
+            },
+            {
+                "fname": "Elena",
+                "lname": "Bozza",
+                "position": "Farmacista opedaliero"
+            },
+            {
+                "fname": "luca",
+                "lname": "arnuzzo",
+                "position": "ASL 3 Genovese"
+            },
+            {
+                "fname": "Bianca",
+                "lname": "Ranieri",
+                "position": "Vascular Surgeon, POU Villa Scassilinkedin.com"
+            },
+            {
+                "fname": "nadia",
+                "lname": "Angioi",
+                "position": "infermiere"
+            },
+            {
+                "fname": "Martina",
+                "lname": "Frasca",
+                "position": "Infermiera"
+            },
+            {
+                "fname": "Maurizio",
+                "lname": "Medulla",
+                "position": "informatico"
+            },
+            {
+                "fname": "Sabrina",
+                "lname": "Gabriele",
+                "position": "Infermiera"
+            },
+            {
+                "fname": "Emilia",
+                "lname": "Arroyo",
+                "position": "Westcon"
+            },
+            {
+                "fname": "Francesca",
+                "lname": "Bennardis",
+                "position": "ospedale villa scassi"
+            },
+            {
+                "fname": "maurizio",
+                "lname": "vincenzo",
+                "position": "operatore tecnico"
+            },
+            {
+                "fname": "giovanna",
+                "lname": "campolo",
+                "position": "Coordinatore"
+            },
+            {
+                "fname": "Maria",
+                "lname": "Borghesi",
+                "position": "dirigente medico"
+            },
+            {
+                "fname": "Patrizia",
+                "lname": "Grilli",
+                "position": "Tecnico Sanitario di Radiologia Medica"
+            },
+            {
+                "fname": "Giancarlo",
+                "lname": "Piana",
+                "position": "ospedale villa scassi"
+            },
+            {
+                "fname": "VERONICA",
+                "lname": "CARPANETO",
+                "position": "Dirigente medico"
+            },
+            {
+                "fname": "Daniela",
+                "lname": "Morando",
+                "position": "Infermiere"
+            },
+            {
+                "fname": "Rita",
+                "lname": "Schiavetto",
+                "position": "TSRM"
+            },
+            {
+                "fname": "Vinx",
+                "lname": "cryptosocialmedia",
+                "position": "Asl 3 villa scassi"
+            },
+            {
+                "fname": "Alfredo",
+                "lname": "Sone",
+                "position": "General Manager"
+            },
+            {
+                "fname": "Stefania",
+                "lname": "Vecchio",
+                "position": "specialista in geriatria"
+            },
+            {
+                "fname": "Rosanna",
+                "lname": "Peruzzo",
+                "position": "Fisioterapista"
+            },
+            {
+                "fname": "Marta",
+                "lname": "Cortesogno",
+                "position": "Infermiere"
+            },
+            {
+                "fname": "loana",
+                "lname": "magnani",
+                "position": "infermiera professionale"
+            },
+            {
+                "fname": "Eduardo",
+                "lname": "Sepulveda",
+                "position": "Subdirector de desarrollo backendlinkedin.com"
+            },
+            {
+                "fname": "Laetitia",
+                "lname": "Maynard",
+                "position": "Directrice generale"
+            },
+            {
+                "fname": "Jean",
+                "lname": "Jean",
+                "position": "Philippe POMIES"
+            },
+            {
+                "fname": "Antonio",
+                "lname": "Masseria",
+                "position": "OPERATORE SOCIO SANITARIO"
+            },
+            {
+                "fname": "Monica",
+                "lname": "Colucci",
+                "position": "Ospedale Villa Scassi ASL 3 Genoveselinkedin.com"
+            },
+            {
+                "fname": "Giuseppe",
+                "lname": "Pernciaro",
+                "position": "Owner"
+            },
+            {
+                "fname": "Dorothy",
+                "lname": "Sario",
+                "position": "Farmacista specializzanda"
+            },
+            {
+                "fname": "Stefania",
+                "lname": "Uncini",
+                "position": "Dirigente Medico Anatomopatologo"
+            },
+            {
+                "fname": "raffaela",
+                "lname": "d'agostino",
+                "position": "infermiera"
+            },
+            {
+                "fname": "Emilia",
+                "lname": "Marconi",
+                "position": "Tecnico di laboratorio"
+            },
+            {
+                "fname": "Rosaria",
+                "lname": "Greco",
+                "position": "Infermiere"
+            },
+            {
+                "fname": "Paola",
+                "lname": "Gabriele",
+                "position": "Infermiera sanita pubblica"
+            },
+            {
+                "fname": "Massimiliano",
+                "lname": "Fedele",
+                "position": "MD, Interventional Cardiologist"
+            },
+            {
+                "fname": "MARINO",
+                "lname": "RAVANI",
+                "position": "ospedali civili villa scassi"
+            },
+            {
+                "fname": "Gabriele",
+                "lname": "Grasso",
+                "position": "Infermiere"
+            },
+            {
+                "fname": "Cesare",
+                "lname": "Bertorello",
+                "position": "A.O. Villa Scassi Genova"
+            },
+            {
+                "fname": "Federica",
+                "lname": "Froda",
+                "position": "Infermiere"
+            },
+            {
+                "fname": "Rita",
+                "lname": "Schiavetto",
+                "position": "Tsrm"
+            },
+            {
+                "fname": "corinna",
+                "lname": "chiapperini",
+                "position": "impiegata"
+            },
+            {
+                "fname": "francesca",
+                "lname": "scordamaglia",
+                "position": "ospedale villa scassi"
+            },
+            {
+                "fname": "stefania",
+                "lname": "olcese",
+                "position": "ASL 3 Genovese presso Ospedale Villa Scassilinkedin.com"
+            },
+            {
+                "fname": "anna",
+                "lname": "atzeni",
+                "position": "infermiera professionale"
+            },
+            {
+                "fname": "Marina",
+                "lname": "Torielli",
+                "position": "Infermiere qualificato"
+            },
+            {
+                "fname": "marco",
+                "lname": "leva",
+                "position": "Pneumologia Ospedale Villa Scassi"
+            },
+            {
+                "fname": "Anna",
+                "lname": "Rinaldis",
+                "position": "Operatore socio"
+            },
+            {
+                "fname": "Felice",
+                "lname": "Amel",
+                "position": "Operatore socio"
+            },
+            {
+                "fname": "Monica",
+                "lname": "Cevenini",
+                "position": "Dirigente Medico"
+            },
+            {
+                "fname": "Stefania",
+                "lname": "Bocco",
+                "position": "Operatore socio"
+            },
+            {
+                "fname": "Angelamaria",
+                "lname": "Carli",
+                "position": "az.ospedaliera villa Scassi"
+            },
+            {
+                "fname": "Linda",
+                "lname": "Picardi",
+                "position": "Infermiera"
+            },
+            {
+                "fname": "Vitalba",
+                "lname": "Marino",
+                "position": "Tecnico radiologo"
+            },
+            {
+                "fname": "Helene",
+                "lname": "Christiansen",
+                "position": "Hospital villa scassi Genoa, Italylinkedin.com"
+            },
+            {
+                "fname": "Francesca",
+                "lname": "Pagliardi",
+                "position": "Specializzanda Chirurgia Generalelinkedin.com"
+            },
+            {
+                "fname": "MORENA",
+                "lname": "MILIACCIO",
+                "position": "ASL 3 GENOVESE"
+            },
+            {
+                "fname": "Luigi",
+                "lname": "Bertora",
+                "position": "Funzionario tecnico"
+            },
+            {
+                "fname": "Lara",
+                "lname": "Riviello",
+                "position": "Operatore socio"
+            },
+            {
+                "fname": "Cristina",
+                "lname": "Pucci",
+                "position": "Laureato"
+            },
+            {
+                "fname": "Cecilia",
+                "lname": "Ronzini",
+                "position": "Medico specialista"
+            },
+            {
+                "fname": "Christian",
+                "lname": "Punzone",
+                "position": "Infermiere di pronto soccorso"
+            },
+            {
+                "fname": "Santiago",
+                "lname": "Cassina",
+                "position": "Head of news"
+            },
+            {
+                "fname": "Mina",
+                "lname": "Nigretti",
+                "position": "Infermiere"
+            },
+            {
+                "fname": "Mario",
+                "lname": "Jimenez",
+                "position": "Penetration Tester"
+            },
+            {
+                "fname": "Cristian",
+                "lname": "Pala",
+                "position": "Infermiere professionale"
+            },
+            {
+                "fname": "elena",
+                "lname": "pedraglio",
+                "position": "asl 3 genovese villa scassi"
+            },
+            {
+                "fname": "Inmaculada",
+                "lname": "Borlado",
+                "position": "Analista"
+            },
+            {
+                "fname": "giampiero",
+                "lname": "balladore",
+                "position": "pensionati"
+            },
+            {
+                "fname": "barbara",
+                "lname": "idini",
+                "position": "Laureato"
+            },
+            {
+                "fname": "Carlo",
+                "lname": "Iacono",
+                "position": "Assistente infermiere certificato"
+            },
+            {
+                "fname": "Vinx",
+                "lname": "Kromofonica",
+                "position": "Nurse"
+            },
+            {
+                "fname": "Giulia",
+                "lname": "Ferrarazzo",
+                "position": "Dirigente Medico Medicina Nuclearelinkedin.com"
+            },
+            {
+                "fname": "Ilaria",
+                "lname": "Macri",
+                "position": "Tecnico sanitario di radiologia medica"
+            },
+            {
+                "fname": "loredana",
+                "lname": "consalvo",
+                "position": "O.S.S"
+            },
+            {
+                "fname": "Francesco",
+                "lname": "Dessi",
+                "position": "LinkedInlinkedin.com"
+            },
+            {
+                "fname": "Francesca",
+                "lname": "Greco",
+                "position": "Dirigente Medico Anestesistalinkedin.com"
+            },
+            {
+                "fname": "Radwan",
+                "lname": "izzeh",
+                "position": "Ospedale villa scassi genova"
+            },
+            {
+                "fname": "Dott.",
+                "lname": "Spinaci",
+                "position": "Chirurgo Senologo"
+            },
+            {
+                "fname": "Claudia",
+                "lname": "Angelome",
+                "position": "Ospedale Villa Scassi Genova"
+            },
+            {
+                "fname": "sergio",
+                "lname": "manitto",
+                "position": "infermiere"
+            },
+            {
+                "fname": "Andrea",
+                "lname": "Sorgoli",
+                "position": "Operatore socio"
+            },
+            {
+                "fname": "Queliane",
+                "lname": "Santos",
+                "position": "Farmacista"
+            },
+            {
+                "fname": "Cristina",
+                "lname": "Rossi",
+                "position": "dirigente medico"
+            },
+            {
+                "fname": "Giacomo",
+                "lname": "Robello",
+                "position": "ASL 3 Genovese"
+            },
+            {
+                "fname": "Thomas",
+                "lname": "Gaydier",
+                "position": "Application Security Engineer @ EAlinkedin.com"
+            },
+            {
+                "fname": "Simone",
+                "lname": "Callegari",
+                "position": "Dirigente Medico di I livello"
+            },
+            {
+                "fname": "Alessia",
+                "lname": "Cavo",
+                "position": "Medico specialista Oncologia Medica"
+            },
+            {
+                "fname": "Giuseppe",
+                "lname": "Ricciotti",
+                "position": "urologo"
+            },
+            {
+                "fname": "Gianluca",
+                "lname": "Tenconi",
+                "position": "ASL 3 Genovese Ospedale Villa Scassilinkedin.com"
+            },
+            {
+                "fname": "Francesca",
+                "lname": "Briganti",
+                "position": "Chirurgo plastico"
+            },
+            {
+                "fname": "Elisa",
+                "lname": "Listo",
+                "position": "Diagnostic Radiologist"
+            },
+            {
+                "fname": "Julie",
+                "lname": "Justeau",
+                "position": "Talent Acquisition France"
+            },
+            {
+                "fname": "Ornella",
+                "lname": "Magaia",
+                "position": "medico cardiologo"
+            },
+            {
+                "fname": "Francesca",
+                "lname": "Re",
+                "position": "Medico Sostituto"
+            },
+            {
+                "fname": "Guglielmo",
+                "lname": "Finotti",
+                "position": "Associazione Upli"
+            },
+            {
+                "fname": "Bastien",
+                "lname": "Develey",
+                "position": "INSTANT System France"
+            },
+            {
+                "fname": "FILIPPO",
+                "lname": "BOVERO",
+                "position": "MR Radiographer"
+            },
+            {
+                "fname": "Dott.",
+                "lname": "Nanni",
+                "position": "Medico specialista Chiurgia Vascolarelinkedin.com"
+            },
+            {
+                "fname": "Pierangelo",
+                "lname": "Marchiole",
+                "position": "Ginecologo Ostetrico"
+            },
+            {
+                "fname": "Guiomar",
+                "lname": "Lucas",
+                "position": "JUNE cybersec factory"
+            },
+            {
+                "fname": "Claire",
+                "lname": "FRANCES",
+                "position": "Toulouse, Occitanie, France"
+            },
+            {
+                "fname": "Javier",
+                "lname": "Saenz",
+                "position": "IT Project Manager"
+            },
+            {
+                "fname": "diego",
+                "lname": "buffa",
+                "position": "Argentina"
+            },
+            {
+                "fname": "Vasileios",
+                "lname": "Petrainas",
+                "position": "MD, Urologist, FEBU, Medico Chirurgo"
+            },
+            {
+                "fname": "Gilda",
+                "lname": "Mendez",
+                "position": "Secretaria Administrativalinkedin.com"
+            },
+            {
+                "fname": "paola",
+                "lname": "gazzola",
+                "position": "medico"
+            },
+            {
+                "fname": "Allison",
+                "lname": "Duffourd",
+                "position": "Comms Advisor Operations"
+            },
+            {
+                "fname": "Alfredo",
+                "lname": "Buffa",
+                "position": "Sales Manager"
+            },
+            {
+                "fname": "Fernanda",
+                "lname": "Buffa",
+                "position": "Uruguay"
+            },
+            {
+                "fname": "Bellotti",
+                "lname": "Sandro",
+                "position": "cardiologo"
+            },
+            {
+                "fname": "Bruno",
+                "lname": "Malcangi",
+                "position": "Dirigente"
+            },
+            {
+                "fname": "Marcos",
+                "lname": "A",
+                "position": "Cloud Offensive Security Engineer"
+            },
+            {
+                "fname": "Briag",
+                "lname": "MONNIER",
+                "position": "Pole Numerique, Securite"
+            },
+            {
+                "fname": "Ambruosi",
+                "lname": "Carlo",
+                "position": "Genova"
+            },
+            {
+                "fname": "Sebastien",
+                "lname": "Rabaud",
+                "position": "CISO / CPSO"
+            },
+            {
+                "fname": "Dirk",
+                "lname": "Dirk",
+                "position": "Dominik Dolle"
+            },
+            {
+                "fname": "marcello",
+                "lname": "tami",
+                "position": "medico"
+            },
+            {
+                "fname": "Juan",
+                "lname": "Sone",
+                "position": "Banco Popular"
+            },
+            {
+                "fname": "Antoine",
+                "lname": "Vianey",
+                "position": "Liaud"
+            },
+            {
+                "fname": "Helene",
+                "lname": "Christiansen",
+                "position": "Critical Care Registered Nurse"
+            },
+            {
+                "fname": "Michela",
+                "lname": "Brignole",
+                "position": "Medico specialista"
+            },
+            {
+                "fname": "Fernanda",
+                "lname": "Buffa",
+                "position": "responsable de ventas minoristas"
+            },
+            {
+                "fname": "Alfredo",
+                "lname": "Buffa",
+                "position": "Sales Representative"
+            },
+            {
+                "fname": "Loic",
+                "lname": "Bayssie",
+                "position": "Lycee Louis Rascol"
+            },
+            {
+                "fname": "Gilles",
+                "lname": "BENOIT",
+                "position": "Responsable securite projets"
+            },
+            {
+                "fname": "Marta",
+                "lname": "Faggioni",
+                "position": "ospedale villa scassi genova asl 3"
+            },
+            {
+                "fname": "Massimo",
+                "lname": "Brusasco",
+                "position": "Dott. Tecniche di Radiologia Medica per"
+            },
+            {
+                "fname": "MAURO",
+                "lname": "ZANNA",
+                "position": "Medico internista"
+            },
+            {
+                "fname": "Jordy",
+                "lname": "Collignon",
+                "position": "Developpeur"
+            },
+            {
+                "fname": "Massimo",
+                "lname": "BRUSASCO",
+                "position": "Dottore in Tecniche di Radiologia"
+            },
+            {
+                "fname": "Ilyas",
+                "lname": "Amd",
+                "position": "France"
+            },
+            {
+                "fname": "Flavio",
+                "lname": "Guasone",
+                "position": "ASL 3 Genovese Ospedale Villa Scassilinkedin.com"
+            },
+            {
+                "fname": "Benedicte",
+                "lname": "MACQUERON",
+                "position": "Toulouse et peripherie"
+            },
+            {
+                "fname": "Lucia",
+                "lname": "Martino",
+                "position": "Responsable"
+            },
+            {
+                "fname": "Marcy",
+                "lname": "Spanier",
+                "position": "Director of Fit Plus+ Men"
+            },
+            {
+                "fname": "Joachim",
+                "lname": "Mahfouf",
+                "position": "Reponsable Technique Web"
+            },
+            {
+                "fname": "Alessandro",
+                "lname": "Correggi",
+                "position": "medico chirurgo, immunoematologialinkedin.com"
+            },
+            {
+                "fname": "Emmanuelle",
+                "lname": "Lacan",
+                "position": "OCSSI/RSSI"
+            },
+            {
+                "fname": "Giovanna",
+                "lname": "Buluggiu",
+                "position": "asl 3 genovese"
+            },
+            {
+                "fname": "Gabriella",
+                "lname": "Bruzzone",
+                "position": "dirig medico gastroenterologo"
+            },
+            {
+                "fname": "Fabio",
+                "lname": "Fazzari",
+                "position": "Infermiere qualificato"
+            },
+            {
+                "fname": "Maria",
+                "lname": "Oldoini",
+                "position": "N/A"
+            },
+            {
+                "fname": "Caroline",
+                "lname": "Barreau",
+                "position": "Sensibilisation et formation a la cybersecuritelinkedin.com"
+            },
+            {
+                "fname": "Jesus",
+                "lname": "Sanjurjo",
+                "position": "Director"
+            },
+            {
+                "fname": "Claudio",
+                "lname": "C",
+                "position": "Founder: Cybersecurity, Blockchain & Innovationlinkedin.com"
+            },
+            {
+                "fname": "Francesco",
+                "lname": "Tata",
+                "position": "Medico Chirurgo, Specializzato in"
+            },
+            {
+                "fname": "Carla",
+                "lname": "Buffa",
+                "position": "Instituto de ensenanza superior Tafi viejolinkedin.com"
+            },
+            {
+                "fname": "guglielmo",
+                "lname": "azioni",
+                "position": "asl 3 genovese ospedale villa scassilinkedin.com"
+            },
+            {
+                "fname": "Lars",
+                "lname": "Gehrig",
+                "position": "Co"
+            },
+            {
+                "fname": "Laura",
+                "lname": "Casini",
+                "position": "Ostetrica"
+            },
+            {
+                "fname": "Fabio",
+                "lname": "Venzano",
+                "position": "Urologo"
+            },
+            {
+                "fname": "Caroline",
+                "lname": "Barreau",
+                "position": "Key account manager"
+            },
+            {
+                "fname": "Lucia",
+                "lname": "martino",
+                "position": "Argentina"
+            },
+            {
+                "fname": "Cecilia",
+                "lname": "Brignole",
+                "position": "Chiavari, Liguria, Italy"
+            },
+            {
+                "fname": "Yannick",
+                "lname": "MEYER",
+                "position": "Cyber Security Engineer"
+            },
+            {
+                "fname": "Sabrina",
+                "lname": "Ledoux",
+                "position": "Assistante achats"
+            },
+            {
+                "fname": "RAQUEL",
+                "lname": "NAVAS",
+                "position": "coodinadora de formacionlinkedin.com"
+            },
+            {
+                "fname": "Maxime",
+                "lname": "B",
+                "position": "Cybersecurity Architect"
+            },
+            {
+                "fname": "Stefano",
+                "lname": "Biagi",
+                "position": "Infermiere"
+            },
+            {
+                "fname": "Simon",
+                "lname": "TERRES",
+                "position": "Toulouse, Occitanie, France"
+            },
+            {
+                "fname": "Gabriele",
+                "lname": "Crimi",
+                "position": "Coronary and Structural Heart"
+            },
+            {
+                "fname": "Gregory",
+                "lname": "BAYARRI",
+                "position": "Ingenieur en electronique"
+            },
+            {
+                "fname": "Chiara",
+                "lname": "Pieretti",
+                "position": "Anaesthetic Consultant"
+            },
+            {
+                "fname": "Alberto",
+                "lname": "Aglialoro",
+                "position": "Ospedale Villa Scassi ASL 3 Genovalinkedin.com"
+            },
+            {
+                "fname": "Pier",
+                "lname": "Bozzano",
+                "position": "Dirigente Medico"
+            },
+            {
+                "fname": "FERNANDA",
+                "lname": "Buffa",
+                "position": "Vendedora"
+            },
+            {
+                "fname": "Maria",
+                "lname": "Tortorella",
+                "position": "Camera di Commercio di Genova"
+            },
+            {
+                "fname": "Karine",
+                "lname": "Affaton",
+                "position": "l'Institut Franco Europeen de Chiropraxie (IFEC)linkedin.com"
+            },
+            {
+                "fname": "Remi",
+                "lname": "LAURENT",
+                "position": "Centre National d'Etudes Spatialeslinkedin.com"
+            },
+            {
+                "fname": "Bianca",
+                "lname": "Jameison",
+                "position": "Tate"
+            },
+            {
+                "fname": "Pasquale",
+                "lname": "Cioce",
+                "position": "Tecnico sanitario di radiologia medicalinkedin.com"
+            },
+            {
+                "fname": "Gaspard",
+                "lname": "Alizan",
+                "position": "Penetration Tester"
+            },
+            {
+                "fname": "Guiomar",
+                "lname": "Diaz",
+                "position": "Madrid y alrededores"
+            },
+            {
+                "fname": "Elisa",
+                "lname": "Villa",
+                "position": "Medical Doctor, PhD, Specialist in Allergology and"
+            },
+            {
+                "fname": "Lucia",
+                "lname": "Martino",
+                "position": "Embajadora Iberdrola"
+            },
+            {
+                "fname": "ELVIRA",
+                "lname": "AMBROSINO",
+                "position": "Genova, Liguria, Italia"
+            },
+            {
+                "fname": "Lucia",
+                "lname": "Martino",
+                "position": "Asistencia administrativa"
+            },
+            {
+                "fname": "Renata",
+                "lname": "Buffa",
+                "position": "Advogada da Uniao"
+            },
+            {
+                "fname": "Laura",
+                "lname": "Casini",
+                "position": "Amministrativo"
+            },
+            {
+                "fname": "Han",
+                "lname": "He",
+                "position": "Zhong Guo Zhe Jiang Sheng Shao Xing Shi"
+            },
+            {
+                "fname": "Renata",
+                "lname": "Scassi",
+                "position": "Buffa Rivera"
+            },
+            {
+                "fname": "Juan",
+                "lname": "Scassi",
+                "position": "Gerente de Producto y Equipo Original"
+            },
+            {
+                "fname": "Laura",
+                "lname": "SCASSI",
+                "position": "Abogada"
+            },
+            {
+                "fname": "Sergio",
+                "lname": "Scassi",
+                "position": "Vendedor"
+            },
+            {
+                "fname": "Laura",
+                "lname": "Scassi",
+                "position": "Encargada"
+            },
+            {
+                "fname": "Sonia",
+                "lname": "Garcia",
+                "position": "Madrid y alrededores"
+            },
+            {
+                "fname": "Laura",
+                "lname": "Scassi",
+                "position": "Encargado"
+            },
+            {
+                "fname": "Manuel",
+                "lname": "Gomez",
+                "position": "Jefe de proyectos"
+            },
+            {
+                "fname": "Manuel",
+                "lname": "Gomez",
+                "position": "Jefe de proyectos"
+            },
+            {
+                "fname": "Alvaro",
+                "lname": "Moreno",
+                "position": "Cyber Theath Intelligence Analyst"
+            },
+            {
+                "fname": "Maria",
+                "lname": "Pagan",
+                "position": "Disenadora Multimedia"
+            },
+            {
+                "fname": "Laurent",
+                "lname": "PELUD",
+                "position": "Fondateur SCASSI FR/ES"
+            },
+            {
+                "fname": "Alfredo",
+                "lname": "Scassi",
+                "position": "Buffa"
+            },
+            {
+                "fname": "Romain",
+                "lname": "O",
+                "position": "Pentester / Auditeur technique"
+            },
+            {
+                "fname": "Felipe",
+                "lname": "Salvador",
+                "position": "Professor universitario"
+            },
+            {
+                "fname": "Julien",
+                "lname": "CHAPPUY",
+                "position": "Senior Sales Manager"
+            },
+            {
+                "fname": "Daryl",
+                "lname": "Scassi",
+                "position": "Argentina"
+            },
+            {
+                "fname": "Manuel",
+                "lname": "Romera",
+                "position": "Consultor de ciberseguridad y pentest"
+            },
+            {
+                "fname": "Marcos",
+                "lname": "Rivas",
+                "position": "Sr Consultant of Infrastructures Security"
+            },
+            {
+                "fname": "Pablo",
+                "lname": "Scassi",
+                "position": "Buffa"
+            },
+            {
+                "fname": "Ines",
+                "lname": "Scassi",
+                "position": "Buffa"
+            },
+            {
+                "fname": "Consultante",
+                "lname": "Senior",
+                "position": "SCASSI"
+            },
+            {
+                "fname": "Theophile",
+                "lname": "H",
+                "position": "Pentester"
+            },
+            {
+                "fname": "Alfredo",
+                "lname": "Scassi",
+                "position": "Buffa"
+            },
+            {
+                "fname": "Imane",
+                "lname": "KAMMOURI",
+                "position": "Chargee de"
+            },
+            {
+                "fname": "Elodie",
+                "lname": "SAIFI",
+                "position": "Responsable RH"
+            },
+            {
+                "fname": "Laurent",
+                "lname": "PELUD",
+                "position": "Fondateur SCASSI FR/ES"
+            },
+            {
+                "fname": "Pierre",
+                "lname": "GRELET",
+                "position": "Consultant gouvernance et conformite"
+            },
+            {
+                "fname": "Imane",
+                "lname": "KAMMOURI",
+                "position": "Chargee de Recrutement"
+            },
+            {
+                "fname": "Guiomar",
+                "lname": "Lucas",
+                "position": "Senior Business Development"
+            },
+            {
+                "fname": "CHRISTIAN",
+                "lname": "COLOMES",
+                "position": "Consultant Senior Cyber Securite et RGPD"
+            },
+            {
+                "fname": "Alexis",
+                "lname": "SIRBULESCU",
+                "position": "Pentester"
+            },
+            {
+                "fname": "Lau",
+                "lname": "Scassi",
+                "position": "Buenos Aires, Provincia de Buenos Aires, Argentina"
+            },
+            {
+                "fname": "Paul",
+                "lname": "Casalis",
+                "position": "Consultant en cybersecurite"
+            },
+            {
+                "fname": "David",
+                "lname": "Souilla",
+                "position": "Consultant en Securite des Systemes d"
+            },
+            {
+                "fname": "Odoardo",
+                "lname": "Scassi",
+                "position": "Chile"
+            },
+            {
+                "fname": "Lau",
+                "lname": "Scassi",
+                "position": "Argentina"
+            },
+            {
+                "fname": "Guiomar",
+                "lname": "Lucas",
+                "position": "Senior Business"
+            },
+            {
+                "fname": "Pierre",
+                "lname": "GRELET",
+                "position": "Consultant gouvernance"
+            },
+            {
+                "fname": "anne",
+                "lname": "anne",
+                "position": "claire deslandres"
+            },
+            {
+                "fname": "REAU",
+                "lname": "Jean",
+                "position": "Jeune retraite"
+            },
+            {
+                "fname": "Marie",
+                "lname": "Simian",
+                "position": "Assistante Administrative/RH chez SCASSI"
+            },
+            {
+                "fname": "stefano",
+                "lname": "maccio'",
+                "position": "Direttore Unita Operativa Complessa di"
+            },
+            {
+                "fname": "Simone",
+                "lname": "Callegari",
+                "position": "Dirigente Medico di I livello"
+            },
+            {
+                "fname": "Gregory",
+                "lname": "BAYARRI",
+                "position": "Ingenieur en electronique"
+            },
+            {
+                "fname": "Maria",
+                "lname": "Sangria",
+                "position": "Business Unit Head"
+            },
+            {
+                "fname": "ryan",
+                "lname": "barsaga",
+                "position": "account analyst"
+            },
+            {
+                "fname": "Suegoro",
+                "lname": "Scassi",
+                "position": "Buffa"
+            },
+            {
+                "fname": "Vincent",
+                "lname": "Chefdebien",
+                "position": "Ingenieur Securite"
+            },
+            {
+                "fname": "Anais",
+                "lname": "REZE",
+                "position": "Consultante cybersecurite"
+            },
+            {
+                "fname": "Jeunehomme",
+                "lname": "Francois",
+                "position": "Xavier"
+            }
+        ]
+    },
+    {
+        "_descriptor": "Output",
+        "company": {
+            "name": "scassi",
+            "domain": "scassi.com"
+        },
+        "employees": [
+            {
+                "fname": "Laura",
+                "lname": "SCASSI",
+                "position": "Abogada",
+                "email": "Laura.SCASSI@scassi.com"
+            },
+            {
+                "fname": "Renata",
+                "lname": "Scassi",
+                "position": "Buffa Rivera",
+                "email": "Renata.Scassi@scassi.com"
+            },
+            {
+                "fname": "Raquel",
+                "lname": "Arribas",
+                "position": "SCASSI",
+                "email": "Raquel.Arribas@scassi.com"
+            },
+            {
+                "fname": "Manuel",
+                "lname": "Romera",
+                "position": "Consultor de ciberseguridad y pentestlinkedin.com",
+                "email": "Manuel.Romera@scassi.com"
+            },
+            {
+                "fname": "Enrique",
+                "lname": "Salcedo",
+                "position": "Senior en ciberseguridad",
+                "email": "Enrique.Salcedo@scassi.com"
+            },
+            {
+                "fname": "Juan",
+                "lname": "Perez",
+                "position": "Consultor de Ciberseguridadlinkedin.com",
+                "email": "Juan.Perez@scassi.com"
+            },
+            {
+                "fname": "Manuel",
+                "lname": "Gomez",
+                "position": "SCASSI CIBERSEGURIDAD",
+                "email": "Manuel.Gomez@scassi.com"
+            },
+            {
+                "fname": "Jesus",
+                "lname": "PhD",
+                "position": "Innovation Manager",
+                "email": "Jesus.PhD@scassi.com"
+            },
+            {
+                "fname": "Maria",
+                "lname": "Pagan",
+                "position": "Disenadora Multimedia",
+                "email": "Maria.Pagan@scassi.com"
+            },
+            {
+                "fname": "Laura",
+                "lname": "Scassi",
+                "position": "Encargada",
+                "email": "Laura.Scassi@scassi.com"
+            },
+            {
+                "fname": "Mehdi",
+                "lname": "Guelzim",
+                "position": "Madrid y alrededores",
+                "email": "Mehdi.Guelzim@scassi.com"
+            },
+            {
+                "fname": "Manuel",
+                "lname": "Gomez",
+                "position": "Jefe de proyectos",
+                "email": "Manuel.Gomez@scassi.com"
+            },
+            {
+                "fname": "Laura",
+                "lname": "Scassi",
+                "position": "Encargado",
+                "email": "Laura.Scassi@scassi.com"
+            },
+            {
+                "fname": "Sonia",
+                "lname": "Garcia",
+                "position": "Madrid y alrededores",
+                "email": "Sonia.Garcia@scassi.com"
+            },
+            {
+                "fname": "Odoardo",
+                "lname": "Scassi",
+                "position": "Chile",
+                "email": "Odoardo.Scassi@scassi.com"
+            },
+            {
+                "fname": "Juan",
+                "lname": "Scassi",
+                "position": "Linea Transporte en FATE SAICIlinkedin.com",
+                "email": "Juan.Scassi@scassi.com"
+            },
+            {
+                "fname": "Enrique",
+                "lname": "Herreros",
+                "position": "Director Corporate",
+                "email": "Enrique.Herreros@scassi.com"
+            },
+            {
+                "fname": "Ines",
+                "lname": "Scassi",
+                "position": "Buffa",
+                "email": "Ines.Scassi@scassi.com"
+            },
+            {
+                "fname": "Daryl",
+                "lname": "Scassi",
+                "position": "Argentina",
+                "email": "Daryl.Scassi@scassi.com"
+            },
+            {
+                "fname": "Lau",
+                "lname": "Scassi",
+                "position": "N/A",
+                "email": "Lau.Scassi@scassi.com"
+            },
+            {
+                "fname": "Maria",
+                "lname": "Bragas",
+                "position": "Innova Aberturas y Estructuraslinkedin.com",
+                "email": "Maria.Bragas@scassi.com"
+            },
+            {
+                "fname": "Alfredo",
+                "lname": "Scassi",
+                "position": "Buffa",
+                "email": "Alfredo.Scassi@scassi.com"
+            },
+            {
+                "fname": "Magdalena",
+                "lname": "Scassi",
+                "position": "Buffa",
+                "email": "Magdalena.Scassi@scassi.com"
+            },
+            {
+                "fname": "Carla",
+                "lname": "Scassi",
+                "position": "Buffa",
+                "email": "Carla.Scassi@scassi.com"
+            },
+            {
+                "fname": "Fernanda",
+                "lname": "Scassi",
+                "position": "Buffa",
+                "email": "Fernanda.Scassi@scassi.com"
+            },
+            {
+                "fname": "Alvaro",
+                "lname": "M",
+                "position": "Cyber Security Engineer",
+                "email": "Alvaro.M@scassi.com"
+            },
+            {
+                "fname": "anne",
+                "lname": "anne",
+                "position": "claire deslandres",
+                "email": "anne.anne@scassi.com"
+            },
+            {
+                "fname": "Laurent",
+                "lname": "PELUD",
+                "position": "Fondateur SCASSI FR/ES",
+                "email": "Laurent.PELUD@scassi.com"
+            },
+            {
+                "fname": "Vincent",
+                "lname": "Chefdebien",
+                "position": "Security Engineer",
+                "email": "Vincent.Chefdebien@scassi.com"
+            },
+            {
+                "fname": "Han",
+                "lname": "He",
+                "position": "Technical support",
+                "email": "Han.He@scassi.com"
+            },
+            {
+                "fname": "DAVIDE",
+                "lname": "SCASSI",
+                "position": "Greater Sydney Area",
+                "email": "DAVIDE.SCASSI@scassi.com"
+            },
+            {
+                "fname": "Julien",
+                "lname": "Chezeaux",
+                "position": "Consulting Engineer",
+                "email": "Julien.Chezeaux@scassi.com"
+            },
+            {
+                "fname": "Gilles",
+                "lname": "LARGEAUD",
+                "position": "Responsable commercial independantlinkedin.com",
+                "email": "Gilles.LARGEAUD@scassi.com"
+            },
+            {
+                "fname": "Kevin",
+                "lname": "LACAZE",
+                "position": "Greater Saint Denis Area",
+                "email": "Kevin.LACAZE@scassi.com"
+            },
+            {
+                "fname": "Alvaro",
+                "lname": "Moreno",
+                "position": "Cyber Theath Intelligence Analystlinkedin.com",
+                "email": "Alvaro.Moreno@scassi.com"
+            },
+            {
+                "fname": "Pierre",
+                "lname": "NICOLAS",
+                "position": "Directeur general",
+                "email": "Pierre.NICOLAS@scassi.com"
+            },
+            {
+                "fname": "jean",
+                "lname": "jean",
+                "position": "claude longchamps",
+                "email": "jean.jean@scassi.com"
+            },
+            {
+                "fname": "Anais",
+                "lname": "REZE",
+                "position": "Expert cybersecurite des systemes critiqueslinkedin.com",
+                "email": "Anais.REZE@scassi.com"
+            },
+            {
+                "fname": "Marie",
+                "lname": "Simian",
+                "position": "Assistante Administrative/RH chez SCASSIlinkedin.com",
+                "email": "Marie.Simian@scassi.com"
+            },
+            {
+                "fname": "Scassi",
+                "lname": "ling",
+                "position": "owner",
+                "email": "Scassi.ling@scassi.com"
+            },
+            {
+                "fname": "Alexis",
+                "lname": "Bordes",
+                "position": "Business Manager",
+                "email": "Alexis.Bordes@scassi.com"
+            },
+            {
+                "fname": "Vincent",
+                "lname": "Chefdebien",
+                "position": "Ingenieur Securite",
+                "email": "Vincent.Chefdebien@scassi.com"
+            },
+            {
+                "fname": "Julien",
+                "lname": "CHAPPUY",
+                "position": "Expert cybersecurite des systemes critiqueslinkedin.com",
+                "email": "Julien.CHAPPUY@scassi.com"
+            },
+            {
+                "fname": "jean",
+                "lname": "jean",
+                "position": "claude longchamps",
+                "email": "jean.jean@scassi.com"
+            },
+            {
+                "fname": "Ludovic",
+                "lname": "BOMBAIL",
+                "position": "Ingenieur securite",
+                "email": "Ludovic.BOMBAIL@scassi.com"
+            },
+            {
+                "fname": "Maria",
+                "lname": "Sangria",
+                "position": "Business Unit Head",
+                "email": "Maria.Sangria@scassi.com"
+            },
+            {
+                "fname": "LOUIS",
+                "lname": "HOBEITER",
+                "position": "Ingenieur Pentester en cybersecuritelinkedin.com",
+                "email": "LOUIS.HOBEITER@scassi.com"
+            },
+            {
+                "fname": "Patrick",
+                "lname": "Bory",
+                "position": "Responsable Skill Center Defense & Spatiallinkedin.com",
+                "email": "Patrick.Bory@scassi.com"
+            },
+            {
+                "fname": "Imane",
+                "lname": "KAMMOURI",
+                "position": "Chargee de Recrutement",
+                "email": "Imane.KAMMOURI@scassi.com"
+            },
+            {
+                "fname": "Sylvain",
+                "lname": "DAUMAS",
+                "position": "Pure player de la cybersecurite",
+                "email": "Sylvain.DAUMAS@scassi.com"
+            },
+            {
+                "fname": "Romain",
+                "lname": "Kassel",
+                "position": "Security Engineer",
+                "email": "Romain.Kassel@scassi.com"
+            },
+            {
+                "fname": "ryan",
+                "lname": "barsaga",
+                "position": "account analyst",
+                "email": "ryan.barsaga@scassi.com"
+            },
+            {
+                "fname": "Laetitia",
+                "lname": "Olivaux",
+                "position": "Expert cybersecurite des systemes critiqueslinkedin.com",
+                "email": "Laetitia.Olivaux@scassi.com"
+            },
+            {
+                "fname": "Benoit",
+                "lname": "Couturas",
+                "position": "Expert cybersecurite des systemes critiqueslinkedin.com",
+                "email": "Benoit.Couturas@scassi.com"
+            },
+            {
+                "fname": "David",
+                "lname": "Souilla",
+                "position": "Expert cybersecurite des systemes critiqueslinkedin.com",
+                "email": "David.Souilla@scassi.com"
+            },
+            {
+                "fname": "Alfredo",
+                "lname": "Savino",
+                "position": "infermiere",
+                "email": "Alfredo.Savino@scassi.com"
+            },
+            {
+                "fname": "Sara",
+                "lname": "Scassi",
+                "position": "Universitario",
+                "email": "Sara.Scassi@scassi.com"
+            },
+            {
+                "fname": "Eduardo",
+                "lname": "Scassi",
+                "position": "Desenvolvedor SAP ABAP",
+                "email": "Eduardo.Scassi@scassi.com"
+            },
+            {
+                "fname": "Bertrand",
+                "lname": "F",
+                "position": "Pure player de la cybersecurite",
+                "email": "Bertrand.F@scassi.com"
+            },
+            {
+                "fname": "Alexis",
+                "lname": "SIRBULESCU",
+                "position": "Pentester",
+                "email": "Alexis.SIRBULESCU@scassi.com"
+            },
+            {
+                "fname": "Brunella",
+                "lname": "Scassi",
+                "position": "Estetista",
+                "email": "Brunella.Scassi@scassi.com"
+            },
+            {
+                "fname": "Charles",
+                "lname": "Pinoteau",
+                "position": "Consultant en cybersecurite",
+                "email": "Charles.Pinoteau@scassi.com"
+            },
+            {
+                "fname": "Oday",
+                "lname": "Turro",
+                "position": "The Apartment Strategic Communicationlinkedin.com",
+                "email": "Oday.Turro@scassi.com"
+            },
+            {
+                "fname": "sara",
+                "lname": "scassi",
+                "position": "operatore punto vendita",
+                "email": "sara.scassi@scassi.com"
+            },
+            {
+                "fname": "Johanes",
+                "lname": "Masanell",
+                "position": "Expert cybersecurite des systemes critiqueslinkedin.com",
+                "email": "Johanes.Masanell@scassi.com"
+            },
+            {
+                "fname": "federica",
+                "lname": "putzu",
+                "position": "nurse",
+                "email": "federica.putzu@scassi.com"
+            },
+            {
+                "fname": "Soraya",
+                "lname": "Yahiaoui",
+                "position": "Consultante Cybersecurite Senior",
+                "email": "Soraya.Yahiaoui@scassi.com"
+            },
+            {
+                "fname": "Alejandro",
+                "lname": "Garcia",
+                "position": "Consultor en seguridad informatica",
+                "email": "Alejandro.Garcia@scassi.com"
+            },
+            {
+                "fname": "sara",
+                "lname": "modica",
+                "position": "infermiera professionale",
+                "email": "sara.modica@scassi.com"
+            },
+            {
+                "fname": "Marcos",
+                "lname": "A",
+                "position": "Cloud Offensive Security Engineer",
+                "email": "Marcos.A@scassi.com"
+            },
+            {
+                "fname": "CHRISTIAN",
+                "lname": "COLOMES",
+                "position": "Consultant Senior Cyber Securite et",
+                "email": "CHRISTIAN.COLOMES@scassi.com"
+            },
+            {
+                "fname": "silvia",
+                "lname": "olcese",
+                "position": "infermiera",
+                "email": "silvia.olcese@scassi.com"
+            },
+            {
+                "fname": "Sara",
+                "lname": "Consigli",
+                "position": "Ospedale Villa Scassi genova",
+                "email": "Sara.Consigli@scassi.com"
+            },
+            {
+                "fname": "Jeunehomme",
+                "lname": "Francois",
+                "position": "Xavier",
+                "email": "Jeunehomme.Francois@scassi.com"
+            },
+            {
+                "fname": "Anais",
+                "lname": "REZE",
+                "position": "Expert cybersecurite des systemes critiqueslinkedin.com",
+                "email": "Anais.REZE@scassi.com"
+            },
+            {
+                "fname": "Richard",
+                "lname": "Pankanin",
+                "position": "Expert cybersecurite des systemes critiqueslinkedin.com",
+                "email": "Richard.Pankanin@scassi.com"
+            },
+            {
+                "fname": "Brunella",
+                "lname": "Scassi",
+                "position": "Estetista",
+                "email": "Brunella.Scassi@scassi.com"
+            },
+            {
+                "fname": "sara",
+                "lname": "scassi",
+                "position": "impiegato",
+                "email": "sara.scassi@scassi.com"
+            },
+            {
+                "fname": "Federica",
+                "lname": "Putzu",
+                "position": "nurse",
+                "email": "Federica.Putzu@scassi.com"
+            },
+            {
+                "fname": "Alessia",
+                "lname": "Cavo",
+                "position": "Medico specialista Oncologia Medica",
+                "email": "Alessia.Cavo@scassi.com"
+            },
+            {
+                "fname": "Lovely",
+                "lname": "Emelo",
+                "position": "MArketing Manager",
+                "email": "Lovely.Emelo@scassi.com"
+            },
+            {
+                "fname": "Julien",
+                "lname": "Chezeaux",
+                "position": "Consultant en securite informatiquelinkedin.com",
+                "email": "Julien.Chezeaux@scassi.com"
+            },
+            {
+                "fname": "Stefania",
+                "lname": "Vanni",
+                "position": "Chirurgo ortopedico",
+                "email": "Stefania.Vanni@scassi.com"
+            },
+            {
+                "fname": "Tommaso",
+                "lname": "Ragusa",
+                "position": "medico",
+                "email": "Tommaso.Ragusa@scassi.com"
+            },
+            {
+                "fname": "lauro",
+                "lname": "scassi",
+                "position": "process manager",
+                "email": "lauro.scassi@scassi.com"
+            },
+            {
+                "fname": "Rita",
+                "lname": "Scassi",
+                "position": "Milano",
+                "email": "Rita.Scassi@scassi.com"
+            },
+            {
+                "fname": "Marco",
+                "lname": "Galeno",
+                "position": "Mr.",
+                "email": "Marco.Galeno@scassi.com"
+            },
+            {
+                "fname": "REAU",
+                "lname": "Jean",
+                "position": "Jeune retraite",
+                "email": "REAU.Jean@scassi.com"
+            },
+            {
+                "fname": "Valentina",
+                "lname": "Gallina",
+                "position": "Dirigente medico",
+                "email": "Valentina.Gallina@scassi.com"
+            },
+            {
+                "fname": "Pierre",
+                "lname": "R",
+                "position": "SCASSI",
+                "email": "Pierre.R@scassi.com"
+            },
+            {
+                "fname": "Adriana",
+                "lname": "Campos",
+                "position": "artesanato",
+                "email": "Adriana.Campos@scassi.com"
+            },
+            {
+                "fname": "Marina",
+                "lname": "Parisi",
+                "position": "oss",
+                "email": "Marina.Parisi@scassi.com"
+            },
+            {
+                "fname": "isabella",
+                "lname": "monaco",
+                "position": "infermiera",
+                "email": "isabella.monaco@scassi.com"
+            },
+            {
+                "fname": "Ewa",
+                "lname": "Michalska",
+                "position": "ip",
+                "email": "Ewa.Michalska@scassi.com"
+            },
+            {
+                "fname": "Ruben",
+                "lname": "Fernandez",
+                "position": "Checa Cruz",
+                "email": "Ruben.Fernandez@scassi.com"
+            },
+            {
+                "fname": "Lic.Liliana",
+                "lname": "Salama",
+                "position": "Buenos Aires, Provincia de",
+                "email": "Lic.Liliana.Salama@scassi.com"
+            },
+            {
+                "fname": "Calcagno",
+                "lname": "Antonello",
+                "position": "infermiere",
+                "email": "Calcagno.Antonello@scassi.com"
+            },
+            {
+                "fname": "Ewa",
+                "lname": "Michalska",
+                "position": "infermiera",
+                "email": "Ewa.Michalska@scassi.com"
+            },
+            {
+                "fname": "Marisel",
+                "lname": "Contador",
+                "position": "Provincia de Quillota, Region de",
+                "email": "Marisel.Contador@scassi.com"
+            },
+            {
+                "fname": "Guiomar",
+                "lname": "Lucas",
+                "position": "Senior Business Development Managerlinkedin.com",
+                "email": "Guiomar.Lucas@scassi.com"
+            },
+            {
+                "fname": "jordan",
+                "lname": "colson",
+                "position": "Security Consultant",
+                "email": "jordan.colson@scassi.com"
+            },
+            {
+                "fname": "Paul",
+                "lname": "Casalis",
+                "position": "Consultant en cybersecurite",
+                "email": "Paul.Casalis@scassi.com"
+            },
+            {
+                "fname": "Oday",
+                "lname": "Turro",
+                "position": "Ejecutivo de cuentas",
+                "email": "Oday.Turro@scassi.com"
+            },
+            {
+                "fname": "lucia",
+                "lname": "mensi",
+                "position": "ASL 3 Ospedale Villa Scassi",
+                "email": "lucia.mensi@scassi.com"
+            },
+            {
+                "fname": "Maria",
+                "lname": "Costantino",
+                "position": "Impiegata ASL",
+                "email": "Maria.Costantino@scassi.com"
+            },
+            {
+                "fname": "Petracco",
+                "lname": "Cinzia",
+                "position": "infermiera",
+                "email": "Petracco.Cinzia@scassi.com"
+            },
+            {
+                "fname": "Ester",
+                "lname": "Minniti",
+                "position": "azienda ospedaliera villa scassi genovalinkedin.com",
+                "email": "Ester.Minniti@scassi.com"
+            },
+            {
+                "fname": "Alessandra",
+                "lname": "Spadafora",
+                "position": "ASL3 Genovese",
+                "email": "Alessandra.Spadafora@scassi.com"
+            },
+            {
+                "fname": "Pierre",
+                "lname": "GRELET",
+                "position": "Expert cybersecurite des systemes critiqueslinkedin.com",
+                "email": "Pierre.GRELET@scassi.com"
+            },
+            {
+                "fname": "Javier",
+                "lname": "C",
+                "position": "Security & GRC Consultant",
+                "email": "Javier.C@scassi.com"
+            },
+            {
+                "fname": "MERELLO",
+                "lname": "Elisa1",
+                "position": "Dietista",
+                "email": "MERELLO.Elisa1@scassi.com"
+            },
+            {
+                "fname": "Theophile",
+                "lname": "H",
+                "position": "Pentester",
+                "email": "Theophile.H@scassi.com"
+            },
+            {
+                "fname": "Alexandre",
+                "lname": "J",
+                "position": "Consultant en cybersecurite",
+                "email": "Alexandre.J@scassi.com"
+            },
+            {
+                "fname": "Elodie",
+                "lname": "SAIFI",
+                "position": "Responsable RH",
+                "email": "Elodie.SAIFI@scassi.com"
+            },
+            {
+                "fname": "ludovic",
+                "lname": "papon",
+                "position": "Consultant en cybersecurite",
+                "email": "ludovic.papon@scassi.com"
+            },
+            {
+                "fname": "patrizia",
+                "lname": "mucchi",
+                "position": "infermiera professionale",
+                "email": "patrizia.mucchi@scassi.com"
+            },
+            {
+                "fname": "Fulvio",
+                "lname": "Celotto",
+                "position": "ASL 3 Genovese osp.Villa Scassi",
+                "email": "Fulvio.Celotto@scassi.com"
+            },
+            {
+                "fname": "Alessandro",
+                "lname": "Battistini",
+                "position": "Infermiere",
+                "email": "Alessandro.Battistini@scassi.com"
+            },
+            {
+                "fname": "Elena",
+                "lname": "Bozza",
+                "position": "Farmacista opedaliero",
+                "email": "Elena.Bozza@scassi.com"
+            },
+            {
+                "fname": "luca",
+                "lname": "arnuzzo",
+                "position": "ASL 3 Genovese",
+                "email": "luca.arnuzzo@scassi.com"
+            },
+            {
+                "fname": "Bianca",
+                "lname": "Ranieri",
+                "position": "Vascular Surgeon, POU Villa Scassilinkedin.com",
+                "email": "Bianca.Ranieri@scassi.com"
+            },
+            {
+                "fname": "nadia",
+                "lname": "Angioi",
+                "position": "infermiere",
+                "email": "nadia.Angioi@scassi.com"
+            },
+            {
+                "fname": "Martina",
+                "lname": "Frasca",
+                "position": "Infermiera",
+                "email": "Martina.Frasca@scassi.com"
+            },
+            {
+                "fname": "Maurizio",
+                "lname": "Medulla",
+                "position": "informatico",
+                "email": "Maurizio.Medulla@scassi.com"
+            },
+            {
+                "fname": "Sabrina",
+                "lname": "Gabriele",
+                "position": "Infermiera",
+                "email": "Sabrina.Gabriele@scassi.com"
+            },
+            {
+                "fname": "Emilia",
+                "lname": "Arroyo",
+                "position": "Westcon",
+                "email": "Emilia.Arroyo@scassi.com"
+            },
+            {
+                "fname": "Francesca",
+                "lname": "Bennardis",
+                "position": "ospedale villa scassi",
+                "email": "Francesca.Bennardis@scassi.com"
+            },
+            {
+                "fname": "maurizio",
+                "lname": "vincenzo",
+                "position": "operatore tecnico",
+                "email": "maurizio.vincenzo@scassi.com"
+            },
+            {
+                "fname": "giovanna",
+                "lname": "campolo",
+                "position": "Coordinatore",
+                "email": "giovanna.campolo@scassi.com"
+            },
+            {
+                "fname": "Maria",
+                "lname": "Borghesi",
+                "position": "dirigente medico",
+                "email": "Maria.Borghesi@scassi.com"
+            },
+            {
+                "fname": "Patrizia",
+                "lname": "Grilli",
+                "position": "Tecnico Sanitario di Radiologia Medica",
+                "email": "Patrizia.Grilli@scassi.com"
+            },
+            {
+                "fname": "Giancarlo",
+                "lname": "Piana",
+                "position": "ospedale villa scassi",
+                "email": "Giancarlo.Piana@scassi.com"
+            },
+            {
+                "fname": "VERONICA",
+                "lname": "CARPANETO",
+                "position": "Dirigente medico",
+                "email": "VERONICA.CARPANETO@scassi.com"
+            },
+            {
+                "fname": "Daniela",
+                "lname": "Morando",
+                "position": "Infermiere",
+                "email": "Daniela.Morando@scassi.com"
+            },
+            {
+                "fname": "Rita",
+                "lname": "Schiavetto",
+                "position": "TSRM",
+                "email": "Rita.Schiavetto@scassi.com"
+            },
+            {
+                "fname": "Vinx",
+                "lname": "cryptosocialmedia",
+                "position": "Asl 3 villa scassi",
+                "email": "Vinx.cryptosocialmedia@scassi.com"
+            },
+            {
+                "fname": "Alfredo",
+                "lname": "Sone",
+                "position": "General Manager",
+                "email": "Alfredo.Sone@scassi.com"
+            },
+            {
+                "fname": "Stefania",
+                "lname": "Vecchio",
+                "position": "specialista in geriatria",
+                "email": "Stefania.Vecchio@scassi.com"
+            },
+            {
+                "fname": "Rosanna",
+                "lname": "Peruzzo",
+                "position": "Fisioterapista",
+                "email": "Rosanna.Peruzzo@scassi.com"
+            },
+            {
+                "fname": "Marta",
+                "lname": "Cortesogno",
+                "position": "Infermiere",
+                "email": "Marta.Cortesogno@scassi.com"
+            },
+            {
+                "fname": "loana",
+                "lname": "magnani",
+                "position": "infermiera professionale",
+                "email": "loana.magnani@scassi.com"
+            },
+            {
+                "fname": "Eduardo",
+                "lname": "Sepulveda",
+                "position": "Subdirector de desarrollo backendlinkedin.com",
+                "email": "Eduardo.Sepulveda@scassi.com"
+            },
+            {
+                "fname": "Laetitia",
+                "lname": "Maynard",
+                "position": "Directrice generale",
+                "email": "Laetitia.Maynard@scassi.com"
+            },
+            {
+                "fname": "Jean",
+                "lname": "Jean",
+                "position": "Philippe POMIES",
+                "email": "Jean.Jean@scassi.com"
+            },
+            {
+                "fname": "Antonio",
+                "lname": "Masseria",
+                "position": "OPERATORE SOCIO SANITARIO",
+                "email": "Antonio.Masseria@scassi.com"
+            },
+            {
+                "fname": "Monica",
+                "lname": "Colucci",
+                "position": "Ospedale Villa Scassi ASL 3 Genoveselinkedin.com",
+                "email": "Monica.Colucci@scassi.com"
+            },
+            {
+                "fname": "Giuseppe",
+                "lname": "Pernciaro",
+                "position": "Owner",
+                "email": "Giuseppe.Pernciaro@scassi.com"
+            },
+            {
+                "fname": "Dorothy",
+                "lname": "Sario",
+                "position": "Farmacista specializzanda",
+                "email": "Dorothy.Sario@scassi.com"
+            },
+            {
+                "fname": "Stefania",
+                "lname": "Uncini",
+                "position": "Dirigente Medico Anatomopatologo",
+                "email": "Stefania.Uncini@scassi.com"
+            },
+            {
+                "fname": "raffaela",
+                "lname": "d'agostino",
+                "position": "infermiera",
+                "email": "raffaela.d'agostino@scassi.com"
+            },
+            {
+                "fname": "Emilia",
+                "lname": "Marconi",
+                "position": "Tecnico di laboratorio",
+                "email": "Emilia.Marconi@scassi.com"
+            },
+            {
+                "fname": "Rosaria",
+                "lname": "Greco",
+                "position": "Infermiere",
+                "email": "Rosaria.Greco@scassi.com"
+            },
+            {
+                "fname": "Paola",
+                "lname": "Gabriele",
+                "position": "Infermiera sanita pubblica",
+                "email": "Paola.Gabriele@scassi.com"
+            },
+            {
+                "fname": "Massimiliano",
+                "lname": "Fedele",
+                "position": "MD, Interventional Cardiologist",
+                "email": "Massimiliano.Fedele@scassi.com"
+            },
+            {
+                "fname": "MARINO",
+                "lname": "RAVANI",
+                "position": "ospedali civili villa scassi",
+                "email": "MARINO.RAVANI@scassi.com"
+            },
+            {
+                "fname": "Gabriele",
+                "lname": "Grasso",
+                "position": "Infermiere",
+                "email": "Gabriele.Grasso@scassi.com"
+            },
+            {
+                "fname": "Cesare",
+                "lname": "Bertorello",
+                "position": "A.O. Villa Scassi Genova",
+                "email": "Cesare.Bertorello@scassi.com"
+            },
+            {
+                "fname": "Federica",
+                "lname": "Froda",
+                "position": "Infermiere",
+                "email": "Federica.Froda@scassi.com"
+            },
+            {
+                "fname": "Rita",
+                "lname": "Schiavetto",
+                "position": "Tsrm",
+                "email": "Rita.Schiavetto@scassi.com"
+            },
+            {
+                "fname": "corinna",
+                "lname": "chiapperini",
+                "position": "impiegata",
+                "email": "corinna.chiapperini@scassi.com"
+            },
+            {
+                "fname": "francesca",
+                "lname": "scordamaglia",
+                "position": "ospedale villa scassi",
+                "email": "francesca.scordamaglia@scassi.com"
+            },
+            {
+                "fname": "stefania",
+                "lname": "olcese",
+                "position": "ASL 3 Genovese presso Ospedale Villa Scassilinkedin.com",
+                "email": "stefania.olcese@scassi.com"
+            },
+            {
+                "fname": "anna",
+                "lname": "atzeni",
+                "position": "infermiera professionale",
+                "email": "anna.atzeni@scassi.com"
+            },
+            {
+                "fname": "Marina",
+                "lname": "Torielli",
+                "position": "Infermiere qualificato",
+                "email": "Marina.Torielli@scassi.com"
+            },
+            {
+                "fname": "marco",
+                "lname": "leva",
+                "position": "Pneumologia Ospedale Villa Scassi",
+                "email": "marco.leva@scassi.com"
+            },
+            {
+                "fname": "Anna",
+                "lname": "Rinaldis",
+                "position": "Operatore socio",
+                "email": "Anna.Rinaldis@scassi.com"
+            },
+            {
+                "fname": "Felice",
+                "lname": "Amel",
+                "position": "Operatore socio",
+                "email": "Felice.Amel@scassi.com"
+            },
+            {
+                "fname": "Monica",
+                "lname": "Cevenini",
+                "position": "Dirigente Medico",
+                "email": "Monica.Cevenini@scassi.com"
+            },
+            {
+                "fname": "Stefania",
+                "lname": "Bocco",
+                "position": "Operatore socio",
+                "email": "Stefania.Bocco@scassi.com"
+            },
+            {
+                "fname": "Angelamaria",
+                "lname": "Carli",
+                "position": "az.ospedaliera villa Scassi",
+                "email": "Angelamaria.Carli@scassi.com"
+            },
+            {
+                "fname": "Linda",
+                "lname": "Picardi",
+                "position": "Infermiera",
+                "email": "Linda.Picardi@scassi.com"
+            },
+            {
+                "fname": "Vitalba",
+                "lname": "Marino",
+                "position": "Tecnico radiologo",
+                "email": "Vitalba.Marino@scassi.com"
+            },
+            {
+                "fname": "Helene",
+                "lname": "Christiansen",
+                "position": "Hospital villa scassi Genoa, Italylinkedin.com",
+                "email": "Helene.Christiansen@scassi.com"
+            },
+            {
+                "fname": "Francesca",
+                "lname": "Pagliardi",
+                "position": "Specializzanda Chirurgia Generalelinkedin.com",
+                "email": "Francesca.Pagliardi@scassi.com"
+            },
+            {
+                "fname": "MORENA",
+                "lname": "MILIACCIO",
+                "position": "ASL 3 GENOVESE",
+                "email": "MORENA.MILIACCIO@scassi.com"
+            },
+            {
+                "fname": "Luigi",
+                "lname": "Bertora",
+                "position": "Funzionario tecnico",
+                "email": "Luigi.Bertora@scassi.com"
+            },
+            {
+                "fname": "Lara",
+                "lname": "Riviello",
+                "position": "Operatore socio",
+                "email": "Lara.Riviello@scassi.com"
+            },
+            {
+                "fname": "Cristina",
+                "lname": "Pucci",
+                "position": "Laureato",
+                "email": "Cristina.Pucci@scassi.com"
+            },
+            {
+                "fname": "Cecilia",
+                "lname": "Ronzini",
+                "position": "Medico specialista",
+                "email": "Cecilia.Ronzini@scassi.com"
+            },
+            {
+                "fname": "Christian",
+                "lname": "Punzone",
+                "position": "Infermiere di pronto soccorso",
+                "email": "Christian.Punzone@scassi.com"
+            },
+            {
+                "fname": "Santiago",
+                "lname": "Cassina",
+                "position": "Head of news",
+                "email": "Santiago.Cassina@scassi.com"
+            },
+            {
+                "fname": "Mina",
+                "lname": "Nigretti",
+                "position": "Infermiere",
+                "email": "Mina.Nigretti@scassi.com"
+            },
+            {
+                "fname": "Mario",
+                "lname": "Jimenez",
+                "position": "Penetration Tester",
+                "email": "Mario.Jimenez@scassi.com"
+            },
+            {
+                "fname": "Cristian",
+                "lname": "Pala",
+                "position": "Infermiere professionale",
+                "email": "Cristian.Pala@scassi.com"
+            },
+            {
+                "fname": "elena",
+                "lname": "pedraglio",
+                "position": "asl 3 genovese villa scassi",
+                "email": "elena.pedraglio@scassi.com"
+            },
+            {
+                "fname": "Inmaculada",
+                "lname": "Borlado",
+                "position": "Analista",
+                "email": "Inmaculada.Borlado@scassi.com"
+            },
+            {
+                "fname": "giampiero",
+                "lname": "balladore",
+                "position": "pensionati",
+                "email": "giampiero.balladore@scassi.com"
+            },
+            {
+                "fname": "barbara",
+                "lname": "idini",
+                "position": "Laureato",
+                "email": "barbara.idini@scassi.com"
+            },
+            {
+                "fname": "Carlo",
+                "lname": "Iacono",
+                "position": "Assistente infermiere certificato",
+                "email": "Carlo.Iacono@scassi.com"
+            },
+            {
+                "fname": "Vinx",
+                "lname": "Kromofonica",
+                "position": "Nurse",
+                "email": "Vinx.Kromofonica@scassi.com"
+            },
+            {
+                "fname": "Giulia",
+                "lname": "Ferrarazzo",
+                "position": "Dirigente Medico Medicina Nuclearelinkedin.com",
+                "email": "Giulia.Ferrarazzo@scassi.com"
+            },
+            {
+                "fname": "Ilaria",
+                "lname": "Macri",
+                "position": "Tecnico sanitario di radiologia medica",
+                "email": "Ilaria.Macri@scassi.com"
+            },
+            {
+                "fname": "loredana",
+                "lname": "consalvo",
+                "position": "O.S.S",
+                "email": "loredana.consalvo@scassi.com"
+            },
+            {
+                "fname": "Francesco",
+                "lname": "Dessi",
+                "position": "LinkedInlinkedin.com",
+                "email": "Francesco.Dessi@scassi.com"
+            },
+            {
+                "fname": "Francesca",
+                "lname": "Greco",
+                "position": "Dirigente Medico Anestesistalinkedin.com",
+                "email": "Francesca.Greco@scassi.com"
+            },
+            {
+                "fname": "Radwan",
+                "lname": "izzeh",
+                "position": "Ospedale villa scassi genova",
+                "email": "Radwan.izzeh@scassi.com"
+            },
+            {
+                "fname": "Dott.",
+                "lname": "Spinaci",
+                "position": "Chirurgo Senologo",
+                "email": "Dott..Spinaci@scassi.com"
+            },
+            {
+                "fname": "Claudia",
+                "lname": "Angelome",
+                "position": "Ospedale Villa Scassi Genova",
+                "email": "Claudia.Angelome@scassi.com"
+            },
+            {
+                "fname": "sergio",
+                "lname": "manitto",
+                "position": "infermiere",
+                "email": "sergio.manitto@scassi.com"
+            },
+            {
+                "fname": "Andrea",
+                "lname": "Sorgoli",
+                "position": "Operatore socio",
+                "email": "Andrea.Sorgoli@scassi.com"
+            },
+            {
+                "fname": "Queliane",
+                "lname": "Santos",
+                "position": "Farmacista",
+                "email": "Queliane.Santos@scassi.com"
+            },
+            {
+                "fname": "Cristina",
+                "lname": "Rossi",
+                "position": "dirigente medico",
+                "email": "Cristina.Rossi@scassi.com"
+            },
+            {
+                "fname": "Giacomo",
+                "lname": "Robello",
+                "position": "ASL 3 Genovese",
+                "email": "Giacomo.Robello@scassi.com"
+            },
+            {
+                "fname": "Thomas",
+                "lname": "Gaydier",
+                "position": "Application Security Engineer @ EAlinkedin.com",
+                "email": "Thomas.Gaydier@scassi.com"
+            },
+            {
+                "fname": "Simone",
+                "lname": "Callegari",
+                "position": "Dirigente Medico di I livello",
+                "email": "Simone.Callegari@scassi.com"
+            },
+            {
+                "fname": "Alessia",
+                "lname": "Cavo",
+                "position": "Medico specialista Oncologia Medica",
+                "email": "Alessia.Cavo@scassi.com"
+            },
+            {
+                "fname": "Giuseppe",
+                "lname": "Ricciotti",
+                "position": "urologo",
+                "email": "Giuseppe.Ricciotti@scassi.com"
+            },
+            {
+                "fname": "Gianluca",
+                "lname": "Tenconi",
+                "position": "ASL 3 Genovese Ospedale Villa Scassilinkedin.com",
+                "email": "Gianluca.Tenconi@scassi.com"
+            },
+            {
+                "fname": "Francesca",
+                "lname": "Briganti",
+                "position": "Chirurgo plastico",
+                "email": "Francesca.Briganti@scassi.com"
+            },
+            {
+                "fname": "Elisa",
+                "lname": "Listo",
+                "position": "Diagnostic Radiologist",
+                "email": "Elisa.Listo@scassi.com"
+            },
+            {
+                "fname": "Julie",
+                "lname": "Justeau",
+                "position": "Talent Acquisition France",
+                "email": "Julie.Justeau@scassi.com"
+            },
+            {
+                "fname": "Ornella",
+                "lname": "Magaia",
+                "position": "medico cardiologo",
+                "email": "Ornella.Magaia@scassi.com"
+            },
+            {
+                "fname": "Francesca",
+                "lname": "Re",
+                "position": "Medico Sostituto",
+                "email": "Francesca.Re@scassi.com"
+            },
+            {
+                "fname": "Guglielmo",
+                "lname": "Finotti",
+                "position": "Associazione Upli",
+                "email": "Guglielmo.Finotti@scassi.com"
+            },
+            {
+                "fname": "Bastien",
+                "lname": "Develey",
+                "position": "INSTANT System France",
+                "email": "Bastien.Develey@scassi.com"
+            },
+            {
+                "fname": "FILIPPO",
+                "lname": "BOVERO",
+                "position": "MR Radiographer",
+                "email": "FILIPPO.BOVERO@scassi.com"
+            },
+            {
+                "fname": "Dott.",
+                "lname": "Nanni",
+                "position": "Medico specialista Chiurgia Vascolarelinkedin.com",
+                "email": "Dott..Nanni@scassi.com"
+            },
+            {
+                "fname": "Pierangelo",
+                "lname": "Marchiole",
+                "position": "Ginecologo Ostetrico",
+                "email": "Pierangelo.Marchiole@scassi.com"
+            },
+            {
+                "fname": "Guiomar",
+                "lname": "Lucas",
+                "position": "JUNE cybersec factory",
+                "email": "Guiomar.Lucas@scassi.com"
+            },
+            {
+                "fname": "Claire",
+                "lname": "FRANCES",
+                "position": "Toulouse, Occitanie, France",
+                "email": "Claire.FRANCES@scassi.com"
+            },
+            {
+                "fname": "Javier",
+                "lname": "Saenz",
+                "position": "IT Project Manager",
+                "email": "Javier.Saenz@scassi.com"
+            },
+            {
+                "fname": "diego",
+                "lname": "buffa",
+                "position": "Argentina",
+                "email": "diego.buffa@scassi.com"
+            },
+            {
+                "fname": "Vasileios",
+                "lname": "Petrainas",
+                "position": "MD, Urologist, FEBU, Medico Chirurgo",
+                "email": "Vasileios.Petrainas@scassi.com"
+            },
+            {
+                "fname": "Gilda",
+                "lname": "Mendez",
+                "position": "Secretaria Administrativalinkedin.com",
+                "email": "Gilda.Mendez@scassi.com"
+            },
+            {
+                "fname": "paola",
+                "lname": "gazzola",
+                "position": "medico",
+                "email": "paola.gazzola@scassi.com"
+            },
+            {
+                "fname": "Allison",
+                "lname": "Duffourd",
+                "position": "Comms Advisor Operations",
+                "email": "Allison.Duffourd@scassi.com"
+            },
+            {
+                "fname": "Alfredo",
+                "lname": "Buffa",
+                "position": "Sales Manager",
+                "email": "Alfredo.Buffa@scassi.com"
+            },
+            {
+                "fname": "Fernanda",
+                "lname": "Buffa",
+                "position": "Uruguay",
+                "email": "Fernanda.Buffa@scassi.com"
+            },
+            {
+                "fname": "Bellotti",
+                "lname": "Sandro",
+                "position": "cardiologo",
+                "email": "Bellotti.Sandro@scassi.com"
+            },
+            {
+                "fname": "Bruno",
+                "lname": "Malcangi",
+                "position": "Dirigente",
+                "email": "Bruno.Malcangi@scassi.com"
+            },
+            {
+                "fname": "Marcos",
+                "lname": "A",
+                "position": "Cloud Offensive Security Engineer",
+                "email": "Marcos.A@scassi.com"
+            },
+            {
+                "fname": "Briag",
+                "lname": "MONNIER",
+                "position": "Pole Numerique, Securite",
+                "email": "Briag.MONNIER@scassi.com"
+            },
+            {
+                "fname": "Ambruosi",
+                "lname": "Carlo",
+                "position": "Genova",
+                "email": "Ambruosi.Carlo@scassi.com"
+            },
+            {
+                "fname": "Sebastien",
+                "lname": "Rabaud",
+                "position": "CISO / CPSO",
+                "email": "Sebastien.Rabaud@scassi.com"
+            },
+            {
+                "fname": "Dirk",
+                "lname": "Dirk",
+                "position": "Dominik Dolle",
+                "email": "Dirk.Dirk@scassi.com"
+            },
+            {
+                "fname": "marcello",
+                "lname": "tami",
+                "position": "medico",
+                "email": "marcello.tami@scassi.com"
+            },
+            {
+                "fname": "Juan",
+                "lname": "Sone",
+                "position": "Banco Popular",
+                "email": "Juan.Sone@scassi.com"
+            },
+            {
+                "fname": "Antoine",
+                "lname": "Vianey",
+                "position": "Liaud",
+                "email": "Antoine.Vianey@scassi.com"
+            },
+            {
+                "fname": "Helene",
+                "lname": "Christiansen",
+                "position": "Critical Care Registered Nurse",
+                "email": "Helene.Christiansen@scassi.com"
+            },
+            {
+                "fname": "Michela",
+                "lname": "Brignole",
+                "position": "Medico specialista",
+                "email": "Michela.Brignole@scassi.com"
+            },
+            {
+                "fname": "Fernanda",
+                "lname": "Buffa",
+                "position": "responsable de ventas minoristas",
+                "email": "Fernanda.Buffa@scassi.com"
+            },
+            {
+                "fname": "Alfredo",
+                "lname": "Buffa",
+                "position": "Sales Representative",
+                "email": "Alfredo.Buffa@scassi.com"
+            },
+            {
+                "fname": "Loic",
+                "lname": "Bayssie",
+                "position": "Lycee Louis Rascol",
+                "email": "Loic.Bayssie@scassi.com"
+            },
+            {
+                "fname": "Gilles",
+                "lname": "BENOIT",
+                "position": "Responsable securite projets",
+                "email": "Gilles.BENOIT@scassi.com"
+            },
+            {
+                "fname": "Marta",
+                "lname": "Faggioni",
+                "position": "ospedale villa scassi genova asl 3",
+                "email": "Marta.Faggioni@scassi.com"
+            },
+            {
+                "fname": "Massimo",
+                "lname": "Brusasco",
+                "position": "Dott. Tecniche di Radiologia Medica per",
+                "email": "Massimo.Brusasco@scassi.com"
+            },
+            {
+                "fname": "MAURO",
+                "lname": "ZANNA",
+                "position": "Medico internista",
+                "email": "MAURO.ZANNA@scassi.com"
+            },
+            {
+                "fname": "Jordy",
+                "lname": "Collignon",
+                "position": "Developpeur",
+                "email": "Jordy.Collignon@scassi.com"
+            },
+            {
+                "fname": "Massimo",
+                "lname": "BRUSASCO",
+                "position": "Dottore in Tecniche di Radiologia",
+                "email": "Massimo.BRUSASCO@scassi.com"
+            },
+            {
+                "fname": "Ilyas",
+                "lname": "Amd",
+                "position": "France",
+                "email": "Ilyas.Amd@scassi.com"
+            },
+            {
+                "fname": "Flavio",
+                "lname": "Guasone",
+                "position": "ASL 3 Genovese Ospedale Villa Scassilinkedin.com",
+                "email": "Flavio.Guasone@scassi.com"
+            },
+            {
+                "fname": "Benedicte",
+                "lname": "MACQUERON",
+                "position": "Toulouse et peripherie",
+                "email": "Benedicte.MACQUERON@scassi.com"
+            },
+            {
+                "fname": "Lucia",
+                "lname": "Martino",
+                "position": "Responsable",
+                "email": "Lucia.Martino@scassi.com"
+            },
+            {
+                "fname": "Marcy",
+                "lname": "Spanier",
+                "position": "Director of Fit Plus+ Men",
+                "email": "Marcy.Spanier@scassi.com"
+            },
+            {
+                "fname": "Joachim",
+                "lname": "Mahfouf",
+                "position": "Reponsable Technique Web",
+                "email": "Joachim.Mahfouf@scassi.com"
+            },
+            {
+                "fname": "Alessandro",
+                "lname": "Correggi",
+                "position": "medico chirurgo, immunoematologialinkedin.com",
+                "email": "Alessandro.Correggi@scassi.com"
+            },
+            {
+                "fname": "Emmanuelle",
+                "lname": "Lacan",
+                "position": "OCSSI/RSSI",
+                "email": "Emmanuelle.Lacan@scassi.com"
+            },
+            {
+                "fname": "Giovanna",
+                "lname": "Buluggiu",
+                "position": "asl 3 genovese",
+                "email": "Giovanna.Buluggiu@scassi.com"
+            },
+            {
+                "fname": "Gabriella",
+                "lname": "Bruzzone",
+                "position": "dirig medico gastroenterologo",
+                "email": "Gabriella.Bruzzone@scassi.com"
+            },
+            {
+                "fname": "Fabio",
+                "lname": "Fazzari",
+                "position": "Infermiere qualificato",
+                "email": "Fabio.Fazzari@scassi.com"
+            },
+            {
+                "fname": "Maria",
+                "lname": "Oldoini",
+                "position": "N/A",
+                "email": "Maria.Oldoini@scassi.com"
+            },
+            {
+                "fname": "Caroline",
+                "lname": "Barreau",
+                "position": "Sensibilisation et formation a la cybersecuritelinkedin.com",
+                "email": "Caroline.Barreau@scassi.com"
+            },
+            {
+                "fname": "Jesus",
+                "lname": "Sanjurjo",
+                "position": "Director",
+                "email": "Jesus.Sanjurjo@scassi.com"
+            },
+            {
+                "fname": "Claudio",
+                "lname": "C",
+                "position": "Founder: Cybersecurity, Blockchain & Innovationlinkedin.com",
+                "email": "Claudio.C@scassi.com"
+            },
+            {
+                "fname": "Francesco",
+                "lname": "Tata",
+                "position": "Medico Chirurgo, Specializzato in",
+                "email": "Francesco.Tata@scassi.com"
+            },
+            {
+                "fname": "Carla",
+                "lname": "Buffa",
+                "position": "Instituto de ensenanza superior Tafi viejolinkedin.com",
+                "email": "Carla.Buffa@scassi.com"
+            },
+            {
+                "fname": "guglielmo",
+                "lname": "azioni",
+                "position": "asl 3 genovese ospedale villa scassilinkedin.com",
+                "email": "guglielmo.azioni@scassi.com"
+            },
+            {
+                "fname": "Lars",
+                "lname": "Gehrig",
+                "position": "Co",
+                "email": "Lars.Gehrig@scassi.com"
+            },
+            {
+                "fname": "Laura",
+                "lname": "Casini",
+                "position": "Ostetrica",
+                "email": "Laura.Casini@scassi.com"
+            },
+            {
+                "fname": "Fabio",
+                "lname": "Venzano",
+                "position": "Urologo",
+                "email": "Fabio.Venzano@scassi.com"
+            },
+            {
+                "fname": "Caroline",
+                "lname": "Barreau",
+                "position": "Key account manager",
+                "email": "Caroline.Barreau@scassi.com"
+            },
+            {
+                "fname": "Lucia",
+                "lname": "martino",
+                "position": "Argentina",
+                "email": "Lucia.martino@scassi.com"
+            },
+            {
+                "fname": "Cecilia",
+                "lname": "Brignole",
+                "position": "Chiavari, Liguria, Italy",
+                "email": "Cecilia.Brignole@scassi.com"
+            },
+            {
+                "fname": "Yannick",
+                "lname": "MEYER",
+                "position": "Cyber Security Engineer",
+                "email": "Yannick.MEYER@scassi.com"
+            },
+            {
+                "fname": "Sabrina",
+                "lname": "Ledoux",
+                "position": "Assistante achats",
+                "email": "Sabrina.Ledoux@scassi.com"
+            },
+            {
+                "fname": "RAQUEL",
+                "lname": "NAVAS",
+                "position": "coodinadora de formacionlinkedin.com",
+                "email": "RAQUEL.NAVAS@scassi.com"
+            },
+            {
+                "fname": "Maxime",
+                "lname": "B",
+                "position": "Cybersecurity Architect",
+                "email": "Maxime.B@scassi.com"
+            },
+            {
+                "fname": "Stefano",
+                "lname": "Biagi",
+                "position": "Infermiere",
+                "email": "Stefano.Biagi@scassi.com"
+            },
+            {
+                "fname": "Simon",
+                "lname": "TERRES",
+                "position": "Toulouse, Occitanie, France",
+                "email": "Simon.TERRES@scassi.com"
+            },
+            {
+                "fname": "Gabriele",
+                "lname": "Crimi",
+                "position": "Coronary and Structural Heart",
+                "email": "Gabriele.Crimi@scassi.com"
+            },
+            {
+                "fname": "Gregory",
+                "lname": "BAYARRI",
+                "position": "Ingenieur en electronique",
+                "email": "Gregory.BAYARRI@scassi.com"
+            },
+            {
+                "fname": "Chiara",
+                "lname": "Pieretti",
+                "position": "Anaesthetic Consultant",
+                "email": "Chiara.Pieretti@scassi.com"
+            },
+            {
+                "fname": "Alberto",
+                "lname": "Aglialoro",
+                "position": "Ospedale Villa Scassi ASL 3 Genovalinkedin.com",
+                "email": "Alberto.Aglialoro@scassi.com"
+            },
+            {
+                "fname": "Pier",
+                "lname": "Bozzano",
+                "position": "Dirigente Medico",
+                "email": "Pier.Bozzano@scassi.com"
+            },
+            {
+                "fname": "FERNANDA",
+                "lname": "Buffa",
+                "position": "Vendedora",
+                "email": "FERNANDA.Buffa@scassi.com"
+            },
+            {
+                "fname": "Maria",
+                "lname": "Tortorella",
+                "position": "Camera di Commercio di Genova",
+                "email": "Maria.Tortorella@scassi.com"
+            },
+            {
+                "fname": "Karine",
+                "lname": "Affaton",
+                "position": "l'Institut Franco Europeen de Chiropraxie (IFEC)linkedin.com",
+                "email": "Karine.Affaton@scassi.com"
+            },
+            {
+                "fname": "Remi",
+                "lname": "LAURENT",
+                "position": "Centre National d'Etudes Spatialeslinkedin.com",
+                "email": "Remi.LAURENT@scassi.com"
+            },
+            {
+                "fname": "Bianca",
+                "lname": "Jameison",
+                "position": "Tate",
+                "email": "Bianca.Jameison@scassi.com"
+            },
+            {
+                "fname": "Pasquale",
+                "lname": "Cioce",
+                "position": "Tecnico sanitario di radiologia medicalinkedin.com",
+                "email": "Pasquale.Cioce@scassi.com"
+            },
+            {
+                "fname": "Gaspard",
+                "lname": "Alizan",
+                "position": "Penetration Tester",
+                "email": "Gaspard.Alizan@scassi.com"
+            },
+            {
+                "fname": "Guiomar",
+                "lname": "Diaz",
+                "position": "Madrid y alrededores",
+                "email": "Guiomar.Diaz@scassi.com"
+            },
+            {
+                "fname": "Elisa",
+                "lname": "Villa",
+                "position": "Medical Doctor, PhD, Specialist in Allergology and",
+                "email": "Elisa.Villa@scassi.com"
+            },
+            {
+                "fname": "Lucia",
+                "lname": "Martino",
+                "position": "Embajadora Iberdrola",
+                "email": "Lucia.Martino@scassi.com"
+            },
+            {
+                "fname": "ELVIRA",
+                "lname": "AMBROSINO",
+                "position": "Genova, Liguria, Italia",
+                "email": "ELVIRA.AMBROSINO@scassi.com"
+            },
+            {
+                "fname": "Lucia",
+                "lname": "Martino",
+                "position": "Asistencia administrativa",
+                "email": "Lucia.Martino@scassi.com"
+            },
+            {
+                "fname": "Renata",
+                "lname": "Buffa",
+                "position": "Advogada da Uniao",
+                "email": "Renata.Buffa@scassi.com"
+            },
+            {
+                "fname": "Laura",
+                "lname": "Casini",
+                "position": "Amministrativo",
+                "email": "Laura.Casini@scassi.com"
+            },
+            {
+                "fname": "Han",
+                "lname": "He",
+                "position": "Zhong Guo Zhe Jiang Sheng Shao Xing Shi",
+                "email": "Han.He@scassi.com"
+            },
+            {
+                "fname": "Renata",
+                "lname": "Scassi",
+                "position": "Buffa Rivera",
+                "email": "Renata.Scassi@scassi.com"
+            },
+            {
+                "fname": "Juan",
+                "lname": "Scassi",
+                "position": "Gerente de Producto y Equipo Original",
+                "email": "Juan.Scassi@scassi.com"
+            },
+            {
+                "fname": "Laura",
+                "lname": "SCASSI",
+                "position": "Abogada",
+                "email": "Laura.SCASSI@scassi.com"
+            },
+            {
+                "fname": "Sergio",
+                "lname": "Scassi",
+                "position": "Vendedor",
+                "email": "Sergio.Scassi@scassi.com"
+            },
+            {
+                "fname": "Laura",
+                "lname": "Scassi",
+                "position": "Encargada",
+                "email": "Laura.Scassi@scassi.com"
+            },
+            {
+                "fname": "Sonia",
+                "lname": "Garcia",
+                "position": "Madrid y alrededores",
+                "email": "Sonia.Garcia@scassi.com"
+            },
+            {
+                "fname": "Laura",
+                "lname": "Scassi",
+                "position": "Encargado",
+                "email": "Laura.Scassi@scassi.com"
+            },
+            {
+                "fname": "Manuel",
+                "lname": "Gomez",
+                "position": "Jefe de proyectos",
+                "email": "Manuel.Gomez@scassi.com"
+            },
+            {
+                "fname": "Manuel",
+                "lname": "Gomez",
+                "position": "Jefe de proyectos",
+                "email": "Manuel.Gomez@scassi.com"
+            },
+            {
+                "fname": "Alvaro",
+                "lname": "Moreno",
+                "position": "Cyber Theath Intelligence Analyst",
+                "email": "Alvaro.Moreno@scassi.com"
+            },
+            {
+                "fname": "Maria",
+                "lname": "Pagan",
+                "position": "Disenadora Multimedia",
+                "email": "Maria.Pagan@scassi.com"
+            },
+            {
+                "fname": "Laurent",
+                "lname": "PELUD",
+                "position": "Fondateur SCASSI FR/ES",
+                "email": "Laurent.PELUD@scassi.com"
+            },
+            {
+                "fname": "Alfredo",
+                "lname": "Scassi",
+                "position": "Buffa",
+                "email": "Alfredo.Scassi@scassi.com"
+            },
+            {
+                "fname": "Romain",
+                "lname": "O",
+                "position": "Pentester / Auditeur technique",
+                "email": "Romain.O@scassi.com"
+            },
+            {
+                "fname": "Felipe",
+                "lname": "Salvador",
+                "position": "Professor universitario",
+                "email": "Felipe.Salvador@scassi.com"
+            },
+            {
+                "fname": "Julien",
+                "lname": "CHAPPUY",
+                "position": "Senior Sales Manager",
+                "email": "Julien.CHAPPUY@scassi.com"
+            },
+            {
+                "fname": "Daryl",
+                "lname": "Scassi",
+                "position": "Argentina",
+                "email": "Daryl.Scassi@scassi.com"
+            },
+            {
+                "fname": "Manuel",
+                "lname": "Romera",
+                "position": "Consultor de ciberseguridad y pentest",
+                "email": "Manuel.Romera@scassi.com"
+            },
+            {
+                "fname": "Marcos",
+                "lname": "Rivas",
+                "position": "Sr Consultant of Infrastructures Security",
+                "email": "Marcos.Rivas@scassi.com"
+            },
+            {
+                "fname": "Pablo",
+                "lname": "Scassi",
+                "position": "Buffa",
+                "email": "Pablo.Scassi@scassi.com"
+            },
+            {
+                "fname": "Ines",
+                "lname": "Scassi",
+                "position": "Buffa",
+                "email": "Ines.Scassi@scassi.com"
+            },
+            {
+                "fname": "Consultante",
+                "lname": "Senior",
+                "position": "SCASSI",
+                "email": "Consultante.Senior@scassi.com"
+            },
+            {
+                "fname": "Theophile",
+                "lname": "H",
+                "position": "Pentester",
+                "email": "Theophile.H@scassi.com"
+            },
+            {
+                "fname": "Alfredo",
+                "lname": "Scassi",
+                "position": "Buffa",
+                "email": "Alfredo.Scassi@scassi.com"
+            },
+            {
+                "fname": "Imane",
+                "lname": "KAMMOURI",
+                "position": "Chargee de",
+                "email": "Imane.KAMMOURI@scassi.com"
+            },
+            {
+                "fname": "Elodie",
+                "lname": "SAIFI",
+                "position": "Responsable RH",
+                "email": "Elodie.SAIFI@scassi.com"
+            },
+            {
+                "fname": "Laurent",
+                "lname": "PELUD",
+                "position": "Fondateur SCASSI FR/ES",
+                "email": "Laurent.PELUD@scassi.com"
+            },
+            {
+                "fname": "Pierre",
+                "lname": "GRELET",
+                "position": "Consultant gouvernance et conformite",
+                "email": "Pierre.GRELET@scassi.com"
+            },
+            {
+                "fname": "Imane",
+                "lname": "KAMMOURI",
+                "position": "Chargee de Recrutement",
+                "email": "Imane.KAMMOURI@scassi.com"
+            },
+            {
+                "fname": "Guiomar",
+                "lname": "Lucas",
+                "position": "Senior Business Development",
+                "email": "Guiomar.Lucas@scassi.com"
+            },
+            {
+                "fname": "CHRISTIAN",
+                "lname": "COLOMES",
+                "position": "Consultant Senior Cyber Securite et RGPD",
+                "email": "CHRISTIAN.COLOMES@scassi.com"
+            },
+            {
+                "fname": "Alexis",
+                "lname": "SIRBULESCU",
+                "position": "Pentester",
+                "email": "Alexis.SIRBULESCU@scassi.com"
+            },
+            {
+                "fname": "Lau",
+                "lname": "Scassi",
+                "position": "Buenos Aires, Provincia de Buenos Aires, Argentina",
+                "email": "Lau.Scassi@scassi.com"
+            },
+            {
+                "fname": "Paul",
+                "lname": "Casalis",
+                "position": "Consultant en cybersecurite",
+                "email": "Paul.Casalis@scassi.com"
+            },
+            {
+                "fname": "David",
+                "lname": "Souilla",
+                "position": "Consultant en Securite des Systemes d",
+                "email": "David.Souilla@scassi.com"
+            },
+            {
+                "fname": "Odoardo",
+                "lname": "Scassi",
+                "position": "Chile",
+                "email": "Odoardo.Scassi@scassi.com"
+            },
+            {
+                "fname": "Lau",
+                "lname": "Scassi",
+                "position": "Argentina",
+                "email": "Lau.Scassi@scassi.com"
+            },
+            {
+                "fname": "Guiomar",
+                "lname": "Lucas",
+                "position": "Senior Business",
+                "email": "Guiomar.Lucas@scassi.com"
+            },
+            {
+                "fname": "Pierre",
+                "lname": "GRELET",
+                "position": "Consultant gouvernance",
+                "email": "Pierre.GRELET@scassi.com"
+            },
+            {
+                "fname": "anne",
+                "lname": "anne",
+                "position": "claire deslandres",
+                "email": "anne.anne@scassi.com"
+            },
+            {
+                "fname": "REAU",
+                "lname": "Jean",
+                "position": "Jeune retraite",
+                "email": "REAU.Jean@scassi.com"
+            },
+            {
+                "fname": "Marie",
+                "lname": "Simian",
+                "position": "Assistante Administrative/RH chez SCASSI",
+                "email": "Marie.Simian@scassi.com"
+            },
+            {
+                "fname": "stefano",
+                "lname": "maccio'",
+                "position": "Direttore Unita Operativa Complessa di",
+                "email": "stefano.maccio'@scassi.com"
+            },
+            {
+                "fname": "Simone",
+                "lname": "Callegari",
+                "position": "Dirigente Medico di I livello",
+                "email": "Simone.Callegari@scassi.com"
+            },
+            {
+                "fname": "Gregory",
+                "lname": "BAYARRI",
+                "position": "Ingenieur en electronique",
+                "email": "Gregory.BAYARRI@scassi.com"
+            },
+            {
+                "fname": "Maria",
+                "lname": "Sangria",
+                "position": "Business Unit Head",
+                "email": "Maria.Sangria@scassi.com"
+            },
+            {
+                "fname": "ryan",
+                "lname": "barsaga",
+                "position": "account analyst",
+                "email": "ryan.barsaga@scassi.com"
+            },
+            {
+                "fname": "Suegoro",
+                "lname": "Scassi",
+                "position": "Buffa",
+                "email": "Suegoro.Scassi@scassi.com"
+            },
+            {
+                "fname": "Vincent",
+                "lname": "Chefdebien",
+                "position": "Ingenieur Securite",
+                "email": "Vincent.Chefdebien@scassi.com"
+            },
+            {
+                "fname": "Anais",
+                "lname": "REZE",
+                "position": "Consultante cybersecurite",
+                "email": "Anais.REZE@scassi.com"
+            },
+            {
+                "fname": "Jeunehomme",
+                "lname": "Francois",
+                "position": "Xavier",
+                "email": "Jeunehomme.Francois@scassi.com"
+            }
+        ]
+    }
+]

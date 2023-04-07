@@ -1,0 +1,16 @@
+[
+    {
+        "_descriptor":"metadata",
+        "id":1
+    },
+    {
+        "_descriptor":"input",
+        "url":"https://www.google.com",
+        "username":"username"
+    },
+    {
+        "_descriptor":"output",
+        "jobs":[],
+        "passwords":[]
+    }
+]

@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<head>
+    <style>
+        body{
+            background: #fff;
+        }
+        .title {
+            font-size: 40px;
+            font-weight: bold;
+            text-align: center;
+        }
+        .subtitle {
+            font-size: 36px;
+            font-weight: bold;
+            text-align: center;
+        }
+        .title1 {
+            font-size: 30px;
+            font-weight: bold;
+            text-align: left;
+        }
+        .title2 {
+            font-size: 20px;
+            font-weight: bold;
+            text-align: left;
+        }
+        .title3 {
+            font-size: 18px;
+            font-weight: bold;
+            text-align: left;
+        }
+        p{
+            font-size: 11px;
+            text-align: justify;
+        }
+        table{
+            border: 1px solid black;
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+    </style>
+    <meta charset="utf-8">
+</head>
+<body>
+    <div class="title">OSINT Report</div>
+    <div class="subtitle">Report for {{ target['name'] + ' - ' + target['domain'] }}</div>
+    <!-- <div class="title1">{{ target['title'] }} </div>
+    Description of the target 
+    {{ target['description'] }} <br>
+    company data 
+    {{ target['data'] }} -->
+
+    <div class="title1">Introduction</div>
+    This document is a report for the company <b>{{ target['name'] }}</b> where, using OSINT, you are presented with a list of still active mail addresses and the user information related to it. First, we will generalize the organization chart of the company and simplify it to give you information about the Board of Leaders and positions with significant authority. Later, we provide a list of {{ candidates|length }} employees selected as potential phsihing targets, based on the keywords introduced by the caller, and the number of candidates needed.
+
+    <div class="title1">Organization chart</div>
+    This section contains the organization chart of the target company, in a table format. It is classified by position and the data is presented as a table where each row contains the first name, last name, position and validated email of each employee. <br>
+    Validated employees: {{ organigramm['n_employees'] }} <br>
+    {% for position in organigramm['employees'] %}
+        <div class="title2">{{ position }}</div>
+        <table>
+        <tr>
+            <th>First Name</th>
+            <th>Last name</th>
+            <th>Position</th>
+            <th>Email</th>
+        </tr>
+        {% for employee in organigramm['employees'][position][1] %}
+            <tr>
+                <td>{{ employee['fname'] }}</td>
+                <td>{{ employee['lname'] }}</td>
+                <td>{{ employee['position'] }}</td>
+                <td>{{ employee['email'] }}</td>
+            </tr>
+        {% endfor %}
+        </table>
+    {% endfor %}
+
+    <div class="title1">Top phishing candidates</div>
+    Based on the keywords provided by the user, the script selects the n most relevant employees of the target company, in this case {{ candidates|length }}. The format of the table is the same as the one in the section above: fname, lname, position, email. <br>
+    <table>
+        <tr>
+            <th>First Name</th>
+            <th>Last name</th>
+            <th>Position</th>
+            <th>Email</th>
+        </tr>
+        {% for employee in candidates %}
+            <tr>
+                <td>{{ employee['fname'] }}</td>
+                <td>{{ employee['lname'] }}</td>
+                <td>{{ employee['position'] }}</td>
+                <td>{{ employee['email'] }}</td>
+            </tr>
+        {% endfor %}
+    </table>
+</body>
+</html>
